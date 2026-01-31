@@ -1,0 +1,35 @@
+TC ID,Test Case Name,Input Length Type,Input (Singlish),Expected Output (Sinhala),Actual Output (Sinhala),Status
+Pos_Fun_01,Basic meal request,S,mata bath oonee,මට බත් ඕනේ,මට බත් ඕනේ,Pass
+Pos_Fun_02,Going home statement,M,mama gedara yanawa,මම ගෙදර යනවා,මම ගෙදර යනවා,Pass
+Pos_Fun_03,Conditional waiting,M,oya enavanam mama balan innawa,ඔයා එනවනම් මම බලන් ඉන්නවා,ඔයා එනවනම් මම බලන් ඉන්නවා,Pass
+Pos_Fun_04,Polite greeting question,S,oyaata kohomada?,ඔයාට කොහොමද?,ඔයාට කොහොමද?,Pass
+Pos_Fun_05,Simple affirmative,S,vahaama ema,වහාම එමා,වහාම එමා,Pass
+Pos_Fun_06,Complex reason statement,L,mama gedara yanawa hasbary vahina nisaa dhaenoma yanone naha,මම ගෙදර යනවා හස්බරී වහින නිසා දැනම යනඕන නැහැ,මම ගෙදර යනවා හස්බරී වහින නිසා දැනම යනඕන නැහැ,Pass
+Pos_Fun_07,Action confirmation,M,mama ehema karanawa,මම එහෙම කරනවා,මම එහෙම කරනවා,Pass
+Pos_Fun_08,Traditional greeting,S,aayuboovan!,ආයුබෝවන්!,ආයුබෝවන්!,Pass
+Pos_Fun_09,Polite ability request,M,mata vihaavak karanna puluvanada?,මට විහාවක් කරන්න පුළුවන්ද?,මට විහාවක් කරන්න පුළුවන්ද?,Pass
+Pos_Fun_10,Agreement response,S,hari mama karannm,හරි මම කරන්නම්,හරි මම කරන්නම්,Pass
+Pos_Fun_11,Wait instruction,M,samaavenna eeka athvaradihimak,සමාවෙන්න එක අත්වරදිහිමක්,සමාවෙන්න එක අත්වරදිහිමක්,Pass
+Pos_Fun_12,Pointing reference,S,eeyaa ooka dhiyan,ඒයා ඔක දියන්,ඒයා ඔක දියන්,Pass
+Pos_Fun_13,Short wait request,S,poddak inna,පොඩ්ඩක් ඉන්න,පොඩ්ඩක් ඉන්න,Pass
+Pos_Fun_14,Sleep announcement,S,mata nidihimahayi,මට නිදිහිමහයි,මට නිදිහිමහයි,Pass
+Pos_Fun_15,Double agreement,S,hari hari,හරි හරි,හරි හරි,Pass
+Pos_Fun_16,Food request,S,mata paan kanna oonee,මට පාන් කන්න ඕනේ,මට පාන් කන්න ඕනේ,Pass
+Pos_Fun_17,Past action,M,mama aye gedara giyaa,මම අයේ ගෙදර ගියා,මම අයේ ගෙදර ගියා,Pass
+Pos_Fun_18,Current work status,M,mama dhaen vaeda karanawa,මම දැන් වැඩ කරනවා,මම දැන් වැඩ කරනවා,Pass
+Pos_Fun_19,Future plan,S,mama heta enawa,මම හෙට එනවා,මම හෙට එනවා,Pass
+Pos_Fun_20,Question about arrival,S,ayaa enavada?,අයා එනවද?,අයා එනවද?,Pass
+Pos_Fun_21,Group departure,S,api yamu,අපි යමු,අපි යමු,Pass
+Pos_Fun_22,Conditional request,M,puluvannam mata eeka evanna,පුළුවන්නම් මට එක එවන්න,පුළුවන්නම් මට එක එවන්න,Pass
+Pos_Fun_23,Simple instruction,S,eeka dhenma,එක දෙන්න,එක දෙන්න,Pass
+Pos_Fun_24,Compound question,M,mama gedara yanawa oyaata maath ekka yanna?,මම ගෙදර යනවා ඔයාට මාත් එක්ක යන්න?,මම ගෙදර යනවා ඔයාට මාත් එක්ක යන්න?,Pass
+Neg_Fun_01,Complex administrative reference,M,managedharayahavaa,මනගේදරායහවා,managedharayahavaa,Fail
+Neg_Fun_02,Technical password request,M,mata WiFi password eka dhenma,මට WiFi මුරපදය එක දෙන්න,මට WiFi password එක දෙන්න,Fail
+Neg_Fun_03,Multiple special characters,S,!!! ?? "hello" ...,!!! ?? "hello" ...,!!! ?? hello ...,Fail
+Neg_Fun_04,Currency with numbers,S,Rs. 5343,රු. 5343,Rs. 5343,Fail
+Neg_Fun_05,Missing document reference,M,magee NIC eka nathi unaa,මගේ ජාතික හැඳුනුම්පත එක නැති උනා,මගේ NIC එක නැති උනා,Fail
+Neg_Fun_06,Technical work instruction,L,adoo vaedak baeagaththisaaram eeka bariyata karapanko MQ,අදෝ වැඩක් බෑගත්තිසාරම් එක බරියට කරපන්කෝ MQ,අදෝ වැඩක් බෑගත්තිසාරම් එක බරියට කරපන්කෝ MQ,Fail
+Neg_Fun_07,Negative action statement,M,mama ehema karanoe naahaa,මම එහෙම කරනෝඉ නාහා,මම එහෙම කරනෝඉ නාහා,Fail
+Neg_Fun_08,Mixed informal expressions,M,samaavenna eeka athvaradihimak,සමාවෙන්න එක අත්වරදිහිමක්,සමාවෙන්න එක අත්වරදිහිමක්,Fail
+Neg_Fun_09,Ambiguous pronoun reference,S,eeyaa ooka dhiyan,ඒයා ඔක දියන්,ඒයා ඔක දියන්,Fail
+Neg_Fun_10,Informal sleep expression,S,mata nidihimahayi,මට නිදිහිමහයි,මට නිදිහිමහයි,Fail

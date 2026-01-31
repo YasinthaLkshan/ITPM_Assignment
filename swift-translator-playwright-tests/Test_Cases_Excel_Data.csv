@@ -1,4 +1,4 @@
-TC ID,Test Case Name,Input Length Type,Input (Singlish),Expected Output (Sinhala),Actual Output (Sinhala),Status,Accuracy Justification / Description of Issue Type,What is Covered by the Test
+TC ID,Test Case Name,Input Length Type,Input (Singlish),Expected Output (Sinhala),Actual Output (Sinhala),Status
 Pos_Fun_01,Basic greeting translation,M,Ayubowan oyata kohomada,ආයුබෝවන් ඔයාට කොහොමද,අයුබොwඅන් ඔයට කොහොමඩ,Pass,"• The greeting meaning is preserved.
 • Sinhala transliteration is produced correctly.
 • The system handles greeting + question combination.","• Greeting / request / response
