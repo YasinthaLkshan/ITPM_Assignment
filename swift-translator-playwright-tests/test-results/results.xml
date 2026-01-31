@@ -1,0 +1,2164 @@
+<testsuites id="" name="" tests="175" failures="16" skipped="0" errors="0" time="242.612647">
+<testsuite name="assignment1.spec.ts" timestamp="2026-01-31T18:09:59.231Z" hostname="chromium" tests="35" failures="2" skipped="0" time="247.179" errors="0">
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_01 - Simple sentence: I go home" classname="assignment1.spec.ts" time="9.82">
+<system-out>
+<![CDATA[✅ Testing: mama gedhara yanavaa. (S)
+Expected: මම ගෙදර යනවා.
+Actual: මම ගෙදර යනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_02 - Simple sentence: I want rice" classname="assignment1.spec.ts" time="9.721">
+<system-out>
+<![CDATA[✅ Testing: mata bath oonee. (S)
+Expected: මට බත් ඕනේ.
+Actual: මට බත් ඕනේ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_03 - Compound sentence: Rain and home" classname="assignment1.spec.ts" time="9.627">
+<system-out>
+<![CDATA[✅ Testing: mama gedhara yanavaa, haebaeyi vahina nisaa dhaenma yannee naee. (M)
+Expected: මම ගෙදර යනවා, හැබැයි වහින නිසා දැන්ම යන්නේ නෑ.
+Actual: මම ගෙදර යනවා, හැබැයි වහින නිසා දැන්ම යන්නේ නෑ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_04 - Complex sentence: Condition" classname="assignment1.spec.ts" time="9.717">
+<system-out>
+<![CDATA[✅ Testing: oya enavaanam mama balan innavaa. (M)
+Expected: ඔය එනවානම් මම බලන් ඉන්නවා.
+Actual: ඔය එනවානම් මම බලන් ඉන්නවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_05 - Question: How are you?" classname="assignment1.spec.ts" time="9.82">
+<system-out>
+<![CDATA[✅ Testing: oyaata kohomadha? (S)
+Expected: ඔයාට කොහොමද?
+Actual: ඔයාට කොහොමද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_06 - Command: Come immediately" classname="assignment1.spec.ts" time="9.81">
+<system-out>
+<![CDATA[✅ Testing: vahaama enna. (S)
+Expected: වහාම එන්න.
+Actual: වහාම එන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_24 - Direct Request: Give it" classname="assignment1.spec.ts" time="6.791">
+<system-out>
+<![CDATA[✅ Testing: eeka dhenna. (S)
+Expected: ඒක දෙන්න.
+Actual: ඒක දෙන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_07 - Positive: I do that" classname="assignment1.spec.ts" time="6.768">
+<system-out>
+<![CDATA[✅ Testing: mama ehema karanavaa. (S)
+Expected: මම එහෙම කරනවා.
+Actual: මම එහෙම කරනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_08 - Negative: I do not do that" classname="assignment1.spec.ts" time="6.82">
+<system-out>
+<![CDATA[✅ Testing: mama ehema karannee naehae. (S)
+Expected: මම එහෙම කරන්නේ නැහැ.
+Actual: මම එහෙම කරන්නේ නැහැ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_09 - Greeting: Ayubowan" classname="assignment1.spec.ts" time="6.679">
+<system-out>
+<![CDATA[✅ Testing: aayuboovan! (S)
+Expected: ආයුබෝවන්!
+Actual: ආයුබෝවන්!
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_10 - Request: Can you help?" classname="assignment1.spec.ts" time="6.891">
+<system-out>
+<![CDATA[✅ Testing: mata udhavvak karanna puLuvandha? (M)
+Expected: මට උදව්වක් කරන්න පුළුවන්ද?
+Actual: මට උදව්වක් කරන්න පුළුවන්ද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_11 - Response: Okay I will do" classname="assignment1.spec.ts" time="6.631">
+<system-out>
+<![CDATA[✅ Testing: hari, mama karannam. (S)
+Expected: හරි, මම කරන්නම්.
+Actual: හරි, මම කරන්නම්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_14 - Expression: Sleepy" classname="assignment1.spec.ts" time="6.675">
+<system-out>
+<![CDATA[✅ Testing: mata nidhimathayi. (S)
+Expected: මට නිදිමතයි.
+Actual: මට නිදිමතයි.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_12 - Polite: Sorry" classname="assignment1.spec.ts" time="6.69">
+<system-out>
+<![CDATA[✅ Testing: samaavenna, eeka athvaeradhiimak. (M)
+Expected: සමාවෙන්න, ඒක අත්වැරදීමක්.
+Actual: සමාවෙන්න, ඒක අත්වැරදීමක්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_13 - Informal: Give that" classname="assignment1.spec.ts" time="6.647">
+<failure message="assignment1.spec.ts:568:11 Pos_Fun_13 - Informal: Give that" type="FAILURE">
+<![CDATA[  [chromium] › assignment1.spec.ts:568:11 › Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_13 - Informal: Give that 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      583 |         // POSITIVE TEST ASSERTIONS
+      584 |         const hasSinhala = containsSinhala(actualOutput);
+    > 585 |         expect(hasSinhala).toBe(true);
+          |                            ^
+      586 |         expect(actualOutput.length).toBeGreaterThan(0);
+      587 |         
+      588 |         // Verify reasonable translation quality
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:585:28
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-f3365-Fun-13---Informal-Give-that-chromium\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-f3365-Fun-13---Informal-Give-that-chromium\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-f3365-Fun-13---Informal-Give-that-chromium\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[✅ Testing: eeyi, ooka dhiyan. (S)
+Expected: ඒයි, ඕක දියන්.
+Actual: 
+
+[[ATTACHMENT|assignment1-Swift-Translat-f3365-Fun-13---Informal-Give-that-chromium\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-f3365-Fun-13---Informal-Give-that-chromium\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-f3365-Fun-13---Informal-Give-that-chromium\error-context.md]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_15 - Phrase: Just wait" classname="assignment1.spec.ts" time="6.833">
+<system-out>
+<![CDATA[✅ Testing: poddak inna (S)
+Expected: පොඩ්ඩක් ඉන්න
+Actual: පොඩ්ඩක් ඉන්න
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_16 - Spacing: I want bread" classname="assignment1.spec.ts" time="6.57">
+<system-out>
+<![CDATA[✅ Testing: mata paan kanna oonee. (S)
+Expected: මට පාන් කන්න ඕනේ.
+Actual: මට පාන් කන්න ඕනේ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_17 - Repeated: OK OK" classname="assignment1.spec.ts" time="6.464">
+<system-out>
+<![CDATA[✅ Testing: hari hari (S)
+Expected: හරි හරි
+Actual: හරි හරි
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_18 - Past: Went home" classname="assignment1.spec.ts" time="6.587">
+<system-out>
+<![CDATA[✅ Testing: mama iiyee gedhara giyaa. (S)
+Expected: මම ඊයේ ගෙදර ගියා.
+Actual: මම ඊයේ ගෙදර ගියා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_19 - Present: Working now" classname="assignment1.spec.ts" time="6.595">
+<system-out>
+<![CDATA[✅ Testing: mama dhaen vaeda karanavaa. (S)
+Expected: මම දැන් වැඩ කරනවා.
+Actual: මම දැන් වැඩ කරනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_20 - Future: Will come tomorrow" classname="assignment1.spec.ts" time="6.554">
+<system-out>
+<![CDATA[✅ Testing: mama heta enavaa. (S)
+Expected: මම හෙට එනවා.
+Actual: මම හෙට එනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_21 - Short input: Is he/she coming?" classname="assignment1.spec.ts" time="6.524">
+<system-out>
+<![CDATA[✅ Testing: eyaa enavadha? (S)
+Expected: එයා එනවද?
+Actual: එයා එනවද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_22 - Medium input: Plural usage" classname="assignment1.spec.ts" time="6.388">
+<system-out>
+<![CDATA[✅ Testing: api yamu ekka gedhara. (M)
+Expected: අපි යමු එක්ක ගෙදර.
+Actual: අපි යමු එක්ක ගෙදර.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_23 - Polite Request: Can you send?" classname="assignment1.spec.ts" time="6.521">
+<system-out>
+<![CDATA[✅ Testing: puLuvannam mata eeka evanna. (S)
+Expected: පුළුවන්නම් මට ඒක එවන්න.
+Actual: පුළුවන්නම් මට ඒක එවන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_UI_01 - Real-time update check" classname="assignment1.spec.ts" time="6.504">
+<system-out>
+<![CDATA[✅ Testing: mama ennavaa (S)
+Expected: මම එන්නවා
+Actual: මම එන්නවා
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_01 - Missing Spaces - Word Segmentation Failure" classname="assignment1.spec.ts" time="5.539">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_01
+Expected to FAIL: System fails to segment words correctly without spaces. Creates joined words instead of proper word boundaries.
+Input: mamagedharayanavaa (S)
+Expected (correct): මම ගෙදර යනවා
+Actual (problematic): මමගෙදරයනවා
+✅ Failure confirmed: System fails to segment words correctly without spaces. Creates joined words instead of proper word boundaries.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_02 - Long Input - Performance Degradation" classname="assignment1.spec.ts" time="8.042">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_02
+Expected to FAIL: Long paragraph input causes system degradation with garbled characters (wඅ patterns), incomplete translations, and formatting loss.
+Input: mama udee negi awa amma kiuwa batha kanna kiyala mama kala apita gedara yanawa one kiwwa taaththa office yanawa kiwwa nangi iskole yanawa kiwwa eyage friend eka enawa kiwwa api okkoma readyi una eyata passe api bus ekata giya bus eka penuna mama taathtage atha allala bus ekata nagginna thama bus eka patan gatta api seat walata giya mama window eka langa hitiya nangi mage langata awa amma salli dunna thaaththa phone eke katha kala api Colombo awa okkoma bus eken behuwa ada harima hoda dawasak una (L)
+Expected (correct): Clear, properly formatted Sinhala text
+Actual (problematic): මම උඩේ නෙගි අwඅ අම්ම කිඋwඅ බත කන්න කියල මම කල අපිට ගෙඩර යනwඅ one කිwwඅ ටාත්ත office යනwඅ කිwwඅ නන්ගි ඉස්කොලෙ යනwඅ කිwwඅ එයගෙ friend එක එනwඅ කිwwඅ අපි ඔක්කොම රේඩ්යි උන එයට පස්සෙ අපි bus එකට ගිය bus එක පෙනුන මම ටාත්ටගෙ අත අල්ලල bus එකට නග්ගින්න තම bus එක පටන් ගට්ට අපි seat wඅලට ගිය මම window එක ලන්ග හිටිය නන්ගි mage ලන්ගට අwඅ අම්ම සල්ලි ඩුන්න තාත්ත phone eke කත කල අපි Colombo අwඅ ඔක්කොම bus එකෙන් බෙහුwඅ අඩ හරිම හොඩ ඩwඅසක් උන
+✅ Failure confirmed: Long paragraph input causes system degradation with garbled characters (wඅ patterns), incomplete translations, and formatting loss.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_03 - Empty Input - No Error Handling" classname="assignment1.spec.ts" time="5.436">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_03
+Expected to FAIL: System provides no feedback for empty input. No user guidance or error message displayed.
+Input:  (S)
+Expected (correct): Error message or guidance
+Actual (problematic): 
+✅ Failure confirmed: System provides no feedback for empty input. No user guidance or error message displayed.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_04 - Heavy Punctuation - Parser Confusion" classname="assignment1.spec.ts" time="5.449">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_04
+Expected to FAIL: Excessive punctuation marks cause parser to fail completely. No translation attempted for non-Singlish content.
+Input: !! ?? "hello" ... (S)
+Expected (correct): Properly handled punctuation with translation
+Actual (problematic): !! ?? "hello" ...
+✅ Failure confirmed: Excessive punctuation marks cause parser to fail completely. No translation attempted for non-Singlish content.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_05 - Currency Format - No Localization" classname="assignment1.spec.ts" time="6.209">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_05
+Expected to FAIL: Currency symbols and numeric formats are not localized to Sinhala context. Direct passthrough without conversion.
+Input: Rs. 5343 (S)
+Expected (correct): රු. 5343 or localized format
+Actual (problematic): Rs. 5343
+✅ Failure confirmed: Currency symbols and numeric formats are not localized to Sinhala context. Direct passthrough without conversion.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_06 - Slang Terms - Inappropriate Translation" classname="assignment1.spec.ts" time="6.483">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_06
+Expected to FAIL: System translates slang "bQQ" to inappropriate formal equivalent "බං", missing contextual nuance.
+Input: adoo vaedak baaragaththaanam eeka hariyata karapanko bQQ. (M)
+Expected (correct): Contextually appropriate translation
+Actual (problematic): අඩෝ වැඩක් බාරගත්තානම් ඒක හරියට කරපන්කො බං.
+✅ Failure confirmed: System translates slang "bQQ" to inappropriate formal equivalent "බං", missing contextual nuance.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_07 - English Abbreviations - Inconsistent Handling" classname="assignment1.spec.ts" time="6.476">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_07
+Expected to FAIL: Inconsistent handling of English abbreviations. Some preserved, others transliterated unpredictably.
+Input: magee NIC eka nathi unaa. (S)
+Expected (correct): මගේ NIC එක නති උනා.
+Actual (problematic): මගේ NIC එක නති උනා.
+✅ Failure confirmed: Inconsistent handling of English abbreviations. Some preserved, others transliterated unpredictably.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_08 - Line Breaks - Format Loss" classname="assignment1.spec.ts" time="6.426">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_08
+Expected to FAIL: Line break formatting inconsistently preserved across different browsers and contexts.
+Input: mama gedhara yanavaa.
+oyaa enavadha maath ekka yanna? (M)
+Expected (correct): මම ගෙදර යනවා.
+ඔයා එනවද මාත් එක්ක යන්න?
+Actual (problematic): මම ගෙදර යනවා.
+ඔයා එනවද මාත් එක්ක යන්න?
+✅ Failure confirmed: Line break formatting inconsistently preserved across different browsers and contexts.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_09 - Brand Names - Over-translation" classname="assignment1.spec.ts" time="6.418">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_09
+Expected to FAIL: Over-transliteration of English words that should remain unchanged. "msg" becomes unreadable "ම්ස්ග්".
+Input: WhatsApp msg ekak danna. (S)
+Expected (correct): WhatsApp මැසේජ් එකක් දන්න.
+Actual (problematic): WhatsApp ම්ස්ග් එකක් ඩන්න.
+✅ Failure confirmed: Over-transliteration of English words that should remain unchanged. "msg" becomes unreadable "ම්ස්ග්".
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_10 - Multiple Spaces - Formatting Issues" classname="assignment1.spec.ts" time="6.054">
+<failure message="assignment1.spec.ts:602:11 Neg_Fun_10 - Multiple Spaces - Formatting Issues" type="FAILURE">
+<![CDATA[  [chromium] › assignment1.spec.ts:602:11 › Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_10 - Multiple Spaces - Formatting Issues 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: false
+    Received: true
+
+      637 |           // Multiple spaces: should be collapsed (formatting lost)
+      638 |           const hasMultipleSpaces = actualOutput.includes('      ');
+    > 639 |           expect(hasMultipleSpaces).toBe(false);
+          |                                     ^
+      640 |         } else {
+      641 |           // Other failures: system produces output but with known issues
+      642 |           expect(actualOutput.length).toBeGreaterThan(0);
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:639:37
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-chromium\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-chromium\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-chromium\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_10
+Expected to FAIL: Multiple consecutive spaces are collapsed to single spaces, losing original formatting intent.
+Input: mama      bohoma      gap      thiyena (S)
+Expected (correct): මම      බොහොම      ගැප්      තියෙන
+Actual (problematic): මම      බොහොම      gap      තියෙන
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-chromium\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-chromium\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-chromium\error-context.md]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="assignment1.spec.ts" timestamp="2026-01-31T18:09:59.231Z" hostname="firefox" tests="35" failures="1" skipped="0" time="258.2" errors="0">
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_01 - Simple sentence: I go home" classname="assignment1.spec.ts" time="9.605">
+<system-out>
+<![CDATA[✅ Testing: mama gedhara yanavaa. (S)
+Expected: මම ගෙදර යනවා.
+Actual: මම ගෙදර යනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_02 - Simple sentence: I want rice" classname="assignment1.spec.ts" time="10.337">
+<system-out>
+<![CDATA[✅ Testing: mata bath oonee. (S)
+Expected: මට බත් ඕනේ.
+Actual: මට බත් ඕනේ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_03 - Compound sentence: Rain and home" classname="assignment1.spec.ts" time="9.68">
+<system-out>
+<![CDATA[✅ Testing: mama gedhara yanavaa, haebaeyi vahina nisaa dhaenma yannee naee. (M)
+Expected: මම ගෙදර යනවා, හැබැයි වහින නිසා දැන්ම යන්නේ නෑ.
+Actual: මම ගෙදර යනවා, හැබැයි වහින නිසා දැන්ම යන්නේ නෑ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_04 - Complex sentence: Condition" classname="assignment1.spec.ts" time="9.532">
+<system-out>
+<![CDATA[✅ Testing: oya enavaanam mama balan innavaa. (M)
+Expected: ඔය එනවානම් මම බලන් ඉන්නවා.
+Actual: ඔය එනවානම් මම බලන් ඉන්නවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_05 - Question: How are you?" classname="assignment1.spec.ts" time="10.325">
+<system-out>
+<![CDATA[✅ Testing: oyaata kohomadha? (S)
+Expected: ඔයාට කොහොමද?
+Actual: ඔයාට කොහොමද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_06 - Command: Come immediately" classname="assignment1.spec.ts" time="10.218">
+<system-out>
+<![CDATA[✅ Testing: vahaama enna. (S)
+Expected: වහාම එන්න.
+Actual: වහාම එන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_24 - Direct Request: Give it" classname="assignment1.spec.ts" time="7.669">
+<system-out>
+<![CDATA[✅ Testing: eeka dhenna. (S)
+Expected: ඒක දෙන්න.
+Actual: ඒක දෙන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_07 - Positive: I do that" classname="assignment1.spec.ts" time="7.43">
+<system-out>
+<![CDATA[✅ Testing: mama ehema karanavaa. (S)
+Expected: මම එහෙම කරනවා.
+Actual: මම එහෙම කරනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_08 - Negative: I do not do that" classname="assignment1.spec.ts" time="7.345">
+<system-out>
+<![CDATA[✅ Testing: mama ehema karannee naehae. (S)
+Expected: මම එහෙම කරන්නේ නැහැ.
+Actual: මම එහෙම කරන්නේ නැහැ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_09 - Greeting: Ayubowan" classname="assignment1.spec.ts" time="7.306">
+<system-out>
+<![CDATA[✅ Testing: aayuboovan! (S)
+Expected: ආයුබෝවන්!
+Actual: ආයුබෝවන්!
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_10 - Request: Can you help?" classname="assignment1.spec.ts" time="7.456">
+<system-out>
+<![CDATA[✅ Testing: mata udhavvak karanna puLuvandha? (M)
+Expected: මට උදව්වක් කරන්න පුළුවන්ද?
+Actual: මට උදව්වක් කරන්න පුළුවන්ද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_11 - Response: Okay I will do" classname="assignment1.spec.ts" time="7.631">
+<system-out>
+<![CDATA[✅ Testing: hari, mama karannam. (S)
+Expected: හරි, මම කරන්නම්.
+Actual: හරි, මම කරන්නම්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_14 - Expression: Sleepy" classname="assignment1.spec.ts" time="7.234">
+<system-out>
+<![CDATA[✅ Testing: mata nidhimathayi. (S)
+Expected: මට නිදිමතයි.
+Actual: මට නිදිමතයි.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_12 - Polite: Sorry" classname="assignment1.spec.ts" time="7.46">
+<system-out>
+<![CDATA[✅ Testing: samaavenna, eeka athvaeradhiimak. (M)
+Expected: සමාවෙන්න, ඒක අත්වැරදීමක්.
+Actual: සමාවෙන්න, ඒක අත්වැරදීමක්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_13 - Informal: Give that" classname="assignment1.spec.ts" time="7.493">
+<system-out>
+<![CDATA[✅ Testing: eeyi, ooka dhiyan. (S)
+Expected: ඒයි, ඕක දියන්.
+Actual: ඒයි, ඕක දියන්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_15 - Phrase: Just wait" classname="assignment1.spec.ts" time="7.138">
+<system-out>
+<![CDATA[✅ Testing: poddak inna (S)
+Expected: පොඩ්ඩක් ඉන්න
+Actual: පොඩ්ඩක් ඉන්න
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_16 - Spacing: I want bread" classname="assignment1.spec.ts" time="7.539">
+<system-out>
+<![CDATA[✅ Testing: mata paan kanna oonee. (S)
+Expected: මට පාන් කන්න ඕනේ.
+Actual: මට පාන් කන්න ඕනේ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_17 - Repeated: OK OK" classname="assignment1.spec.ts" time="7.619">
+<system-out>
+<![CDATA[✅ Testing: hari hari (S)
+Expected: හරි හරි
+Actual: හරි හරි
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_18 - Past: Went home" classname="assignment1.spec.ts" time="6.924">
+<system-out>
+<![CDATA[✅ Testing: mama iiyee gedhara giyaa. (S)
+Expected: මම ඊයේ ගෙදර ගියා.
+Actual: මම ඊයේ ගෙදර ගියා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_19 - Present: Working now" classname="assignment1.spec.ts" time="7.218">
+<system-out>
+<![CDATA[✅ Testing: mama dhaen vaeda karanavaa. (S)
+Expected: මම දැන් වැඩ කරනවා.
+Actual: මම දැන් වැඩ කරනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_20 - Future: Will come tomorrow" classname="assignment1.spec.ts" time="7.403">
+<system-out>
+<![CDATA[✅ Testing: mama heta enavaa. (S)
+Expected: මම හෙට එනවා.
+Actual: මම හෙට එනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_21 - Short input: Is he/she coming?" classname="assignment1.spec.ts" time="7.568">
+<system-out>
+<![CDATA[✅ Testing: eyaa enavadha? (S)
+Expected: එයා එනවද?
+Actual: එයා එනවද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_22 - Medium input: Plural usage" classname="assignment1.spec.ts" time="6.78">
+<system-out>
+<![CDATA[✅ Testing: api yamu ekka gedhara. (M)
+Expected: අපි යමු එක්ක ගෙදර.
+Actual: අපි යමු එක්ක ගෙදර.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_23 - Polite Request: Can you send?" classname="assignment1.spec.ts" time="6.639">
+<system-out>
+<![CDATA[✅ Testing: puLuvannam mata eeka evanna. (S)
+Expected: පුළුවන්නම් මට ඒක එවන්න.
+Actual: පුළුවන්නම් මට ඒක එවන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_UI_01 - Real-time update check" classname="assignment1.spec.ts" time="6.777">
+<system-out>
+<![CDATA[✅ Testing: mama ennavaa (S)
+Expected: මම එන්නවා
+Actual: මම එන්නවා
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_01 - Missing Spaces - Word Segmentation Failure" classname="assignment1.spec.ts" time="5.619">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_01
+Expected to FAIL: System fails to segment words correctly without spaces. Creates joined words instead of proper word boundaries.
+Input: mamagedharayanavaa (S)
+Expected (correct): මම ගෙදර යනවා
+Actual (problematic): මමගෙදරයනවා
+✅ Failure confirmed: System fails to segment words correctly without spaces. Creates joined words instead of proper word boundaries.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_02 - Long Input - Performance Degradation" classname="assignment1.spec.ts" time="8.207">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_02
+Expected to FAIL: Long paragraph input causes system degradation with garbled characters (wඅ patterns), incomplete translations, and formatting loss.
+Input: mama udee negi awa amma kiuwa batha kanna kiyala mama kala apita gedara yanawa one kiwwa taaththa office yanawa kiwwa nangi iskole yanawa kiwwa eyage friend eka enawa kiwwa api okkoma readyi una eyata passe api bus ekata giya bus eka penuna mama taathtage atha allala bus ekata nagginna thama bus eka patan gatta api seat walata giya mama window eka langa hitiya nangi mage langata awa amma salli dunna thaaththa phone eke katha kala api Colombo awa okkoma bus eken behuwa ada harima hoda dawasak una (L)
+Expected (correct): Clear, properly formatted Sinhala text
+Actual (problematic): මම උඩේ නෙගි අwඅ අම්ම කිඋwඅ බත කන්න කියල මම කල අපිට ගෙඩර යනwඅ one කිwwඅ ටාත්ත office යනwඅ කිwwඅ නන්ගි ඉස්කොලෙ යනwඅ කිwwඅ එයගෙ friend එක එනwඅ කිwwඅ අපි ඔක්කොම රේඩ්යි උන එයට පස්සෙ අපි bus එකට ගිය bus එක පෙනුන මම ටාත්ටගෙ අත අල්ලල bus එකට නග්ගින්න තම bus එක පටන් ගට්ට අපි seat wඅලට ගිය මම window එක ලන්ග හිටිය නන්ගි mage ලන්ගට අwඅ අම්ම සල්ලි ඩුන්න තාත්ත phone eke කත කල අපි Colombo අwඅ ඔක්කොම bus එකෙන් බෙහුwඅ අඩ හරිම හොඩ ඩwඅසක් උන
+✅ Failure confirmed: Long paragraph input causes system degradation with garbled characters (wඅ patterns), incomplete translations, and formatting loss.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_03 - Empty Input - No Error Handling" classname="assignment1.spec.ts" time="5.599">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_03
+Expected to FAIL: System provides no feedback for empty input. No user guidance or error message displayed.
+Input:  (S)
+Expected (correct): Error message or guidance
+Actual (problematic): 
+✅ Failure confirmed: System provides no feedback for empty input. No user guidance or error message displayed.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_04 - Heavy Punctuation - Parser Confusion" classname="assignment1.spec.ts" time="5.711">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_04
+Expected to FAIL: Excessive punctuation marks cause parser to fail completely. No translation attempted for non-Singlish content.
+Input: !! ?? "hello" ... (S)
+Expected (correct): Properly handled punctuation with translation
+Actual (problematic): !! ?? "hello" ...
+✅ Failure confirmed: Excessive punctuation marks cause parser to fail completely. No translation attempted for non-Singlish content.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_05 - Currency Format - No Localization" classname="assignment1.spec.ts" time="5.802">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_05
+Expected to FAIL: Currency symbols and numeric formats are not localized to Sinhala context. Direct passthrough without conversion.
+Input: Rs. 5343 (S)
+Expected (correct): රු. 5343 or localized format
+Actual (problematic): Rs. 5343
+✅ Failure confirmed: Currency symbols and numeric formats are not localized to Sinhala context. Direct passthrough without conversion.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_06 - Slang Terms - Inappropriate Translation" classname="assignment1.spec.ts" time="5.669">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_06
+Expected to FAIL: System translates slang "bQQ" to inappropriate formal equivalent "බං", missing contextual nuance.
+Input: adoo vaedak baaragaththaanam eeka hariyata karapanko bQQ. (M)
+Expected (correct): Contextually appropriate translation
+Actual (problematic): අඩෝ වැඩක් බාරගත්තානම් ඒක හරියට කරපන්කො බං.
+✅ Failure confirmed: System translates slang "bQQ" to inappropriate formal equivalent "බං", missing contextual nuance.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_07 - English Abbreviations - Inconsistent Handling" classname="assignment1.spec.ts" time="5.771">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_07
+Expected to FAIL: Inconsistent handling of English abbreviations. Some preserved, others transliterated unpredictably.
+Input: magee NIC eka nathi unaa. (S)
+Expected (correct): මගේ NIC එක නති උනා.
+Actual (problematic): මගේ NIC එක නති උනා.
+✅ Failure confirmed: Inconsistent handling of English abbreviations. Some preserved, others transliterated unpredictably.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_08 - Line Breaks - Format Loss" classname="assignment1.spec.ts" time="5.771">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_08
+Expected to FAIL: Line break formatting inconsistently preserved across different browsers and contexts.
+Input: mama gedhara yanavaa.
+oyaa enavadha maath ekka yanna? (M)
+Expected (correct): මම ගෙදර යනවා.
+ඔයා එනවද මාත් එක්ක යන්න?
+Actual (problematic): මම ගෙදර යනවා.
+ඔයා එනවද මාත් එක්ක යන්න?
+✅ Failure confirmed: Line break formatting inconsistently preserved across different browsers and contexts.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_09 - Brand Names - Over-translation" classname="assignment1.spec.ts" time="5.798">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_09
+Expected to FAIL: Over-transliteration of English words that should remain unchanged. "msg" becomes unreadable "ම්ස්ග්".
+Input: WhatsApp msg ekak danna. (S)
+Expected (correct): WhatsApp මැසේජ් එකක් දන්න.
+Actual (problematic): WhatsApp ම්ස්ග් එකක් ඩන්න.
+✅ Failure confirmed: Over-transliteration of English words that should remain unchanged. "msg" becomes unreadable "ම්ස්ග්".
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_10 - Multiple Spaces - Formatting Issues" classname="assignment1.spec.ts" time="5.927">
+<failure message="assignment1.spec.ts:602:11 Neg_Fun_10 - Multiple Spaces - Formatting Issues" type="FAILURE">
+<![CDATA[  [firefox] › assignment1.spec.ts:602:11 › Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_10 - Multiple Spaces - Formatting Issues 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: false
+    Received: true
+
+      637 |           // Multiple spaces: should be collapsed (formatting lost)
+      638 |           const hasMultipleSpaces = actualOutput.includes('      ');
+    > 639 |           expect(hasMultipleSpaces).toBe(false);
+          |                                     ^
+      640 |         } else {
+      641 |           // Other failures: system produces output but with known issues
+      642 |           expect(actualOutput.length).toBeGreaterThan(0);
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:639:37
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-firefox\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-firefox\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-firefox\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_10
+Expected to FAIL: Multiple consecutive spaces are collapsed to single spaces, losing original formatting intent.
+Input: mama      bohoma      gap      thiyena (S)
+Expected (correct): මම      බොහොම      ගැප්      තියෙන
+Actual (problematic): මම      බොහොම      gap      තියෙන
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-firefox\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-firefox\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-firefox\error-context.md]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="assignment1.spec.ts" timestamp="2026-01-31T18:09:59.231Z" hostname="webkit" tests="35" failures="1" skipped="0" time="290.8" errors="0">
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_01 - Simple sentence: I go home" classname="assignment1.spec.ts" time="8.303">
+<system-out>
+<![CDATA[✅ Testing: mama gedhara yanavaa. (S)
+Expected: මම ගෙදර යනවා.
+Actual: මම ගෙදර යනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_02 - Simple sentence: I want rice" classname="assignment1.spec.ts" time="8.545">
+<system-out>
+<![CDATA[✅ Testing: mata bath oonee. (S)
+Expected: මට බත් ඕනේ.
+Actual: මට බත් ඕනේ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_03 - Compound sentence: Rain and home" classname="assignment1.spec.ts" time="8.963">
+<system-out>
+<![CDATA[✅ Testing: mama gedhara yanavaa, haebaeyi vahina nisaa dhaenma yannee naee. (M)
+Expected: මම ගෙදර යනවා, හැබැයි වහින නිසා දැන්ම යන්නේ නෑ.
+Actual: මම ගෙදර යනවා, හැබැයි වහින නිසා දැන්ම යන්නේ නෑ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_04 - Complex sentence: Condition" classname="assignment1.spec.ts" time="8.441">
+<system-out>
+<![CDATA[✅ Testing: oya enavaanam mama balan innavaa. (M)
+Expected: ඔය එනවානම් මම බලන් ඉන්නවා.
+Actual: ඔය එනවානම් මම බලන් ඉන්නවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_05 - Question: How are you?" classname="assignment1.spec.ts" time="9.411">
+<system-out>
+<![CDATA[✅ Testing: oyaata kohomadha? (S)
+Expected: ඔයාට කොහොමද?
+Actual: ඔයාට කොහොමද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_06 - Command: Come immediately" classname="assignment1.spec.ts" time="8.807">
+<system-out>
+<![CDATA[✅ Testing: vahaama enna. (S)
+Expected: වහාම එන්න.
+Actual: වහාම එන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_24 - Direct Request: Give it" classname="assignment1.spec.ts" time="8.702">
+<system-out>
+<![CDATA[✅ Testing: eeka dhenna. (S)
+Expected: ඒක දෙන්න.
+Actual: ඒක දෙන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_07 - Positive: I do that" classname="assignment1.spec.ts" time="8.843">
+<system-out>
+<![CDATA[✅ Testing: mama ehema karanavaa. (S)
+Expected: මම එහෙම කරනවා.
+Actual: මම එහෙම කරනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_08 - Negative: I do not do that" classname="assignment1.spec.ts" time="8.772">
+<system-out>
+<![CDATA[✅ Testing: mama ehema karannee naehae. (S)
+Expected: මම එහෙම කරන්නේ නැහැ.
+Actual: මම එහෙම කරන්නේ නැහැ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_09 - Greeting: Ayubowan" classname="assignment1.spec.ts" time="8.26">
+<system-out>
+<![CDATA[✅ Testing: aayuboovan! (S)
+Expected: ආයුබෝවන්!
+Actual: ආයුබෝවන්!
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_10 - Request: Can you help?" classname="assignment1.spec.ts" time="8.716">
+<system-out>
+<![CDATA[✅ Testing: mata udhavvak karanna puLuvandha? (M)
+Expected: මට උදව්වක් කරන්න පුළුවන්ද?
+Actual: මට උදව්වක් කරන්න පුළුවන්ද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_11 - Response: Okay I will do" classname="assignment1.spec.ts" time="9.174">
+<system-out>
+<![CDATA[✅ Testing: hari, mama karannam. (S)
+Expected: හරි, මම කරන්නම්.
+Actual: හරි, මම කරන්නම්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_14 - Expression: Sleepy" classname="assignment1.spec.ts" time="8.357">
+<system-out>
+<![CDATA[✅ Testing: mata nidhimathayi. (S)
+Expected: මට නිදිමතයි.
+Actual: මට නිදිමතයි.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_12 - Polite: Sorry" classname="assignment1.spec.ts" time="8.427">
+<system-out>
+<![CDATA[✅ Testing: samaavenna, eeka athvaeradhiimak. (M)
+Expected: සමාවෙන්න, ඒක අත්වැරදීමක්.
+Actual: සමාවෙන්න, ඒක අත්වැරදීමක්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_13 - Informal: Give that" classname="assignment1.spec.ts" time="8.613">
+<system-out>
+<![CDATA[✅ Testing: eeyi, ooka dhiyan. (S)
+Expected: ඒයි, ඕක දියන්.
+Actual: ඒයි, ඕක දියන්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_15 - Phrase: Just wait" classname="assignment1.spec.ts" time="8.305">
+<system-out>
+<![CDATA[✅ Testing: poddak inna (S)
+Expected: පොඩ්ඩක් ඉන්න
+Actual: පොඩ්ඩක් ඉන්න
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_16 - Spacing: I want bread" classname="assignment1.spec.ts" time="8.58">
+<system-out>
+<![CDATA[✅ Testing: mata paan kanna oonee. (S)
+Expected: මට පාන් කන්න ඕනේ.
+Actual: මට පාන් කන්න ඕනේ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_17 - Repeated: OK OK" classname="assignment1.spec.ts" time="8.812">
+<system-out>
+<![CDATA[✅ Testing: hari hari (S)
+Expected: හරි හරි
+Actual: හරි හරි
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_18 - Past: Went home" classname="assignment1.spec.ts" time="8.318">
+<system-out>
+<![CDATA[✅ Testing: mama iiyee gedhara giyaa. (S)
+Expected: මම ඊයේ ගෙදර ගියා.
+Actual: මම ඊයේ ගෙදර ගියා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_19 - Present: Working now" classname="assignment1.spec.ts" time="8.163">
+<system-out>
+<![CDATA[✅ Testing: mama dhaen vaeda karanavaa. (S)
+Expected: මම දැන් වැඩ කරනවා.
+Actual: මම දැන් වැඩ කරනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_20 - Future: Will come tomorrow" classname="assignment1.spec.ts" time="8.398">
+<system-out>
+<![CDATA[✅ Testing: mama heta enavaa. (S)
+Expected: මම හෙට එනවා.
+Actual: මම හෙට එනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_21 - Short input: Is he/she coming?" classname="assignment1.spec.ts" time="8.544">
+<system-out>
+<![CDATA[✅ Testing: eyaa enavadha? (S)
+Expected: එයා එනවද?
+Actual: එයා එනවද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_22 - Medium input: Plural usage" classname="assignment1.spec.ts" time="8.637">
+<system-out>
+<![CDATA[✅ Testing: api yamu ekka gedhara. (M)
+Expected: අපි යමු එක්ක ගෙදර.
+Actual: අපි යමු එක්ක ගෙදර.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_23 - Polite Request: Can you send?" classname="assignment1.spec.ts" time="8.526">
+<system-out>
+<![CDATA[✅ Testing: puLuvannam mata eeka evanna. (S)
+Expected: පුළුවන්නම් මට ඒක එවන්න.
+Actual: පුළුවන්නම් මට ඒක එවන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_UI_01 - Real-time update check" classname="assignment1.spec.ts" time="8.388">
+<system-out>
+<![CDATA[✅ Testing: mama ennavaa (S)
+Expected: මම එන්නවා
+Actual: මම එන්නවා
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_01 - Missing Spaces - Word Segmentation Failure" classname="assignment1.spec.ts" time="7.448">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_01
+Expected to FAIL: System fails to segment words correctly without spaces. Creates joined words instead of proper word boundaries.
+Input: mamagedharayanavaa (S)
+Expected (correct): මම ගෙදර යනවා
+Actual (problematic): මමගෙදරයනවා
+✅ Failure confirmed: System fails to segment words correctly without spaces. Creates joined words instead of proper word boundaries.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_02 - Long Input - Performance Degradation" classname="assignment1.spec.ts" time="9.72">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_02
+Expected to FAIL: Long paragraph input causes system degradation with garbled characters (wඅ patterns), incomplete translations, and formatting loss.
+Input: mama udee negi awa amma kiuwa batha kanna kiyala mama kala apita gedara yanawa one kiwwa taaththa office yanawa kiwwa nangi iskole yanawa kiwwa eyage friend eka enawa kiwwa api okkoma readyi una eyata passe api bus ekata giya bus eka penuna mama taathtage atha allala bus ekata nagginna thama bus eka patan gatta api seat walata giya mama window eka langa hitiya nangi mage langata awa amma salli dunna thaaththa phone eke katha kala api Colombo awa okkoma bus eken behuwa ada harima hoda dawasak una (L)
+Expected (correct): Clear, properly formatted Sinhala text
+Actual (problematic): මම උඩේ නෙගි අwඅ අම්ම කිඋwඅ බත කන්න කියල මම කල අපිට ගෙඩර යනwඅ one කිwwඅ ටාත්ත office යනwඅ කිwwඅ නන්ගි ඉස්කොලෙ යනwඅ කිwwඅ එයගෙ friend එක එනwඅ කිwwඅ අපි ඔක්කොම රේඩ්යි උන එයට පස්සෙ අපි bus එකට ගිය bus එක පෙනුන මම ටාත්ටගෙ අත අල්ලල bus එකට නග්ගින්න තම bus එක පටන් ගට්ට අපි seat wඅලට ගිය මම window එක ලන්ග හිටිය නන්ගි mage ලන්ගට අwඅ අම්ම සල්ලි ඩුන්න තාත්ත phone eke කත කල අපි Colombo අwඅ ඔක්කොම bus එකෙන් බෙහුwඅ අඩ හරිම හොඩ ඩwඅසක් උන
+✅ Failure confirmed: Long paragraph input causes system degradation with garbled characters (wඅ patterns), incomplete translations, and formatting loss.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_03 - Empty Input - No Error Handling" classname="assignment1.spec.ts" time="7.006">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_03
+Expected to FAIL: System provides no feedback for empty input. No user guidance or error message displayed.
+Input:  (S)
+Expected (correct): Error message or guidance
+Actual (problematic): 
+✅ Failure confirmed: System provides no feedback for empty input. No user guidance or error message displayed.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_04 - Heavy Punctuation - Parser Confusion" classname="assignment1.spec.ts" time="7.124">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_04
+Expected to FAIL: Excessive punctuation marks cause parser to fail completely. No translation attempted for non-Singlish content.
+Input: !! ?? "hello" ... (S)
+Expected (correct): Properly handled punctuation with translation
+Actual (problematic): !! ?? "hello" ...
+✅ Failure confirmed: Excessive punctuation marks cause parser to fail completely. No translation attempted for non-Singlish content.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_05 - Currency Format - No Localization" classname="assignment1.spec.ts" time="7.5">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_05
+Expected to FAIL: Currency symbols and numeric formats are not localized to Sinhala context. Direct passthrough without conversion.
+Input: Rs. 5343 (S)
+Expected (correct): රු. 5343 or localized format
+Actual (problematic): Rs. 5343
+✅ Failure confirmed: Currency symbols and numeric formats are not localized to Sinhala context. Direct passthrough without conversion.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_06 - Slang Terms - Inappropriate Translation" classname="assignment1.spec.ts" time="7.642">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_06
+Expected to FAIL: System translates slang "bQQ" to inappropriate formal equivalent "බං", missing contextual nuance.
+Input: adoo vaedak baaragaththaanam eeka hariyata karapanko bQQ. (M)
+Expected (correct): Contextually appropriate translation
+Actual (problematic): අඩෝ වැඩක් බාරගත්තානම් ඒක හරියට කරපන්කො බං.
+✅ Failure confirmed: System translates slang "bQQ" to inappropriate formal equivalent "බං", missing contextual nuance.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_07 - English Abbreviations - Inconsistent Handling" classname="assignment1.spec.ts" time="7.394">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_07
+Expected to FAIL: Inconsistent handling of English abbreviations. Some preserved, others transliterated unpredictably.
+Input: magee NIC eka nathi unaa. (S)
+Expected (correct): මගේ NIC එක නති උනා.
+Actual (problematic): මගේ NIC එක නති උනා.
+✅ Failure confirmed: Inconsistent handling of English abbreviations. Some preserved, others transliterated unpredictably.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_08 - Line Breaks - Format Loss" classname="assignment1.spec.ts" time="7.308">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_08
+Expected to FAIL: Line break formatting inconsistently preserved across different browsers and contexts.
+Input: mama gedhara yanavaa.
+oyaa enavadha maath ekka yanna? (M)
+Expected (correct): මම ගෙදර යනවා.
+ඔයා එනවද මාත් එක්ක යන්න?
+Actual (problematic): මම ගෙදර යනවා.
+ඔයා එනවද මාත් එක්ක යන්න?
+✅ Failure confirmed: Line break formatting inconsistently preserved across different browsers and contexts.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_09 - Brand Names - Over-translation" classname="assignment1.spec.ts" time="7.3">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_09
+Expected to FAIL: Over-transliteration of English words that should remain unchanged. "msg" becomes unreadable "ම්ස්ග්".
+Input: WhatsApp msg ekak danna. (S)
+Expected (correct): WhatsApp මැසේජ් එකක් දන්න.
+Actual (problematic): WhatsApp ම්ස්ග් එකක් ඩන්න.
+✅ Failure confirmed: Over-transliteration of English words that should remain unchanged. "msg" becomes unreadable "ම්ස්ග්".
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_10 - Multiple Spaces - Formatting Issues" classname="assignment1.spec.ts" time="7.353">
+<failure message="assignment1.spec.ts:602:11 Neg_Fun_10 - Multiple Spaces - Formatting Issues" type="FAILURE">
+<![CDATA[  [webkit] › assignment1.spec.ts:602:11 › Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_10 - Multiple Spaces - Formatting Issues 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: false
+    Received: true
+
+      637 |           // Multiple spaces: should be collapsed (formatting lost)
+      638 |           const hasMultipleSpaces = actualOutput.includes('      ');
+    > 639 |           expect(hasMultipleSpaces).toBe(false);
+          |                                     ^
+      640 |         } else {
+      641 |           // Other failures: system produces output but with known issues
+      642 |           expect(actualOutput.length).toBeGreaterThan(0);
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:639:37
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-webkit\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-webkit\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-webkit\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_10
+Expected to FAIL: Multiple consecutive spaces are collapsed to single spaces, losing original formatting intent.
+Input: mama      bohoma      gap      thiyena (S)
+Expected (correct): මම      බොහොම      ගැප්      තියෙන
+Actual (problematic): මම      බොහොම      gap      තියෙන
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-webkit\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-webkit\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-webkit\error-context.md]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="assignment1.spec.ts" timestamp="2026-01-31T18:09:59.231Z" hostname="Mobile Chrome" tests="35" failures="5" skipped="0" time="223.892" errors="0">
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_01 - Simple sentence: I go home" classname="assignment1.spec.ts" time="6.814">
+<system-out>
+<![CDATA[✅ Testing: mama gedhara yanavaa. (S)
+Expected: මම ගෙදර යනවා.
+Actual: මම ගෙදර යනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_02 - Simple sentence: I want rice" classname="assignment1.spec.ts" time="7.004">
+<system-out>
+<![CDATA[✅ Testing: mata bath oonee. (S)
+Expected: මට බත් ඕනේ.
+Actual: මට බත් ඕනේ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_03 - Compound sentence: Rain and home" classname="assignment1.spec.ts" time="6.885">
+<system-out>
+<![CDATA[✅ Testing: mama gedhara yanavaa, haebaeyi vahina nisaa dhaenma yannee naee. (M)
+Expected: මම ගෙදර යනවා, හැබැයි වහින නිසා දැන්ම යන්නේ නෑ.
+Actual: මම ගෙදර යනවා, හැබැයි වහින නිසා දැන්ම යන්නේ නෑ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_04 - Complex sentence: Condition" classname="assignment1.spec.ts" time="6.741">
+<system-out>
+<![CDATA[✅ Testing: oya enavaanam mama balan innavaa. (M)
+Expected: ඔය එනවානම් මම බලන් ඉන්නවා.
+Actual: ඔය එනවානම් මම බලන් ඉන්නවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_05 - Question: How are you?" classname="assignment1.spec.ts" time="6.78">
+<system-out>
+<![CDATA[✅ Testing: oyaata kohomadha? (S)
+Expected: ඔයාට කොහොමද?
+Actual: ඔයාට කොහොමද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_06 - Command: Come immediately" classname="assignment1.spec.ts" time="6.693">
+<system-out>
+<![CDATA[✅ Testing: vahaama enna. (S)
+Expected: වහාම එන්න.
+Actual: වහාම එන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_24 - Direct Request: Give it" classname="assignment1.spec.ts" time="6.795">
+<system-out>
+<![CDATA[✅ Testing: eeka dhenna. (S)
+Expected: ඒක දෙන්න.
+Actual: ඒක දෙන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_07 - Positive: I do that" classname="assignment1.spec.ts" time="6.616">
+<system-out>
+<![CDATA[✅ Testing: mama ehema karanavaa. (S)
+Expected: මම එහෙම කරනවා.
+Actual: මම එහෙම කරනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_08 - Negative: I do not do that" classname="assignment1.spec.ts" time="6.689">
+<system-out>
+<![CDATA[✅ Testing: mama ehema karannee naehae. (S)
+Expected: මම එහෙම කරන්නේ නැහැ.
+Actual: මම එහෙම කරන්නේ නැහැ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_09 - Greeting: Ayubowan" classname="assignment1.spec.ts" time="6.681">
+<system-out>
+<![CDATA[✅ Testing: aayuboovan! (S)
+Expected: ආයුබෝවන්!
+Actual: ආයුබෝවන්!
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_10 - Request: Can you help?" classname="assignment1.spec.ts" time="6.479">
+<system-out>
+<![CDATA[✅ Testing: mata udhavvak karanna puLuvandha? (M)
+Expected: මට උදව්වක් කරන්න පුළුවන්ද?
+Actual: මට උදව්වක් කරන්න පුළුවන්ද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_11 - Response: Okay I will do" classname="assignment1.spec.ts" time="6.58">
+<system-out>
+<![CDATA[✅ Testing: hari, mama karannam. (S)
+Expected: හරි, මම කරන්නම්.
+Actual: හරි, මම කරන්නම්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_14 - Expression: Sleepy" classname="assignment1.spec.ts" time="6.754">
+<system-out>
+<![CDATA[✅ Testing: mata nidhimathayi. (S)
+Expected: මට නිදිමතයි.
+Actual: මට නිදිමතයි.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_12 - Polite: Sorry" classname="assignment1.spec.ts" time="6.642">
+<system-out>
+<![CDATA[✅ Testing: samaavenna, eeka athvaeradhiimak. (M)
+Expected: සමාවෙන්න, ඒක අත්වැරදීමක්.
+Actual: සමාවෙන්න, ඒක අත්වැරදීමක්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_13 - Informal: Give that" classname="assignment1.spec.ts" time="6.452">
+<failure message="assignment1.spec.ts:568:11 Pos_Fun_13 - Informal: Give that" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › assignment1.spec.ts:568:11 › Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_13 - Informal: Give that 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      583 |         // POSITIVE TEST ASSERTIONS
+      584 |         const hasSinhala = containsSinhala(actualOutput);
+    > 585 |         expect(hasSinhala).toBe(true);
+          |                            ^
+      586 |         expect(actualOutput.length).toBeGreaterThan(0);
+      587 |         
+      588 |         // Verify reasonable translation quality
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:585:28
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-f3365-Fun-13---Informal-Give-that-Mobile-Chrome\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-f3365-Fun-13---Informal-Give-that-Mobile-Chrome\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-f3365-Fun-13---Informal-Give-that-Mobile-Chrome\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[✅ Testing: eeyi, ooka dhiyan. (S)
+Expected: ඒයි, ඕක දියන්.
+Actual: 
+
+[[ATTACHMENT|assignment1-Swift-Translat-f3365-Fun-13---Informal-Give-that-Mobile-Chrome\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-f3365-Fun-13---Informal-Give-that-Mobile-Chrome\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-f3365-Fun-13---Informal-Give-that-Mobile-Chrome\error-context.md]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_15 - Phrase: Just wait" classname="assignment1.spec.ts" time="6.442">
+<system-out>
+<![CDATA[✅ Testing: poddak inna (S)
+Expected: පොඩ්ඩක් ඉන්න
+Actual: පොඩ්ඩක් ඉන්න
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_16 - Spacing: I want bread" classname="assignment1.spec.ts" time="6.502">
+<system-out>
+<![CDATA[✅ Testing: mata paan kanna oonee. (S)
+Expected: මට පාන් කන්න ඕනේ.
+Actual: මට පාන් කන්න ඕනේ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_17 - Repeated: OK OK" classname="assignment1.spec.ts" time="6.511">
+<system-out>
+<![CDATA[✅ Testing: hari hari (S)
+Expected: හරි හරි
+Actual: හරි හරි
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_18 - Past: Went home" classname="assignment1.spec.ts" time="6.523">
+<failure message="assignment1.spec.ts:568:11 Pos_Fun_18 - Past: Went home" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › assignment1.spec.ts:568:11 › Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_18 - Past: Went home 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      583 |         // POSITIVE TEST ASSERTIONS
+      584 |         const hasSinhala = containsSinhala(actualOutput);
+    > 585 |         expect(hasSinhala).toBe(true);
+          |                            ^
+      586 |         expect(actualOutput.length).toBeGreaterThan(0);
+      587 |         
+      588 |         // Verify reasonable translation quality
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:585:28
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-85af4-Pos-Fun-18---Past-Went-home-Mobile-Chrome\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-85af4-Pos-Fun-18---Past-Went-home-Mobile-Chrome\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-85af4-Pos-Fun-18---Past-Went-home-Mobile-Chrome\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[✅ Testing: mama iiyee gedhara giyaa. (S)
+Expected: මම ඊයේ ගෙදර ගියා.
+Actual: 
+
+[[ATTACHMENT|assignment1-Swift-Translat-85af4-Pos-Fun-18---Past-Went-home-Mobile-Chrome\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-85af4-Pos-Fun-18---Past-Went-home-Mobile-Chrome\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-85af4-Pos-Fun-18---Past-Went-home-Mobile-Chrome\error-context.md]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_19 - Present: Working now" classname="assignment1.spec.ts" time="6.453">
+<system-out>
+<![CDATA[✅ Testing: mama dhaen vaeda karanavaa. (S)
+Expected: මම දැන් වැඩ කරනවා.
+Actual: මම දැන් වැඩ කරනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_20 - Future: Will come tomorrow" classname="assignment1.spec.ts" time="6.697">
+<system-out>
+<![CDATA[✅ Testing: mama heta enavaa. (S)
+Expected: මම හෙට එනවා.
+Actual: මම හෙට එනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_21 - Short input: Is he/she coming?" classname="assignment1.spec.ts" time="6.351">
+<system-out>
+<![CDATA[✅ Testing: eyaa enavadha? (S)
+Expected: එයා එනවද?
+Actual: එයා එනවද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_22 - Medium input: Plural usage" classname="assignment1.spec.ts" time="6.505">
+<system-out>
+<![CDATA[✅ Testing: api yamu ekka gedhara. (M)
+Expected: අපි යමු එක්ක ගෙදර.
+Actual: අපි යමු එක්ක ගෙදර.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_23 - Polite Request: Can you send?" classname="assignment1.spec.ts" time="6.323">
+<system-out>
+<![CDATA[✅ Testing: puLuvannam mata eeka evanna. (S)
+Expected: පුළුවන්නම් මට ඒක එවන්න.
+Actual: පුළුවන්නම් මට ඒක එවන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_UI_01 - Real-time update check" classname="assignment1.spec.ts" time="6.756">
+<system-out>
+<![CDATA[✅ Testing: mama ennavaa (S)
+Expected: මම එන්නවා
+Actual: මම එන්නවා
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_01 - Missing Spaces - Word Segmentation Failure" classname="assignment1.spec.ts" time="5.419">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_01
+Expected to FAIL: System fails to segment words correctly without spaces. Creates joined words instead of proper word boundaries.
+Input: mamagedharayanavaa (S)
+Expected (correct): මම ගෙදර යනවා
+Actual (problematic): මමගෙදරයනවා
+✅ Failure confirmed: System fails to segment words correctly without spaces. Creates joined words instead of proper word boundaries.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_02 - Long Input - Performance Degradation" classname="assignment1.spec.ts" time="8.095">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_02
+Expected to FAIL: Long paragraph input causes system degradation with garbled characters (wඅ patterns), incomplete translations, and formatting loss.
+Input: mama udee negi awa amma kiuwa batha kanna kiyala mama kala apita gedara yanawa one kiwwa taaththa office yanawa kiwwa nangi iskole yanawa kiwwa eyage friend eka enawa kiwwa api okkoma readyi una eyata passe api bus ekata giya bus eka penuna mama taathtage atha allala bus ekata nagginna thama bus eka patan gatta api seat walata giya mama window eka langa hitiya nangi mage langata awa amma salli dunna thaaththa phone eke katha kala api Colombo awa okkoma bus eken behuwa ada harima hoda dawasak una (L)
+Expected (correct): Clear, properly formatted Sinhala text
+Actual (problematic): මම උඩේ නෙගි අwඅ අම්ම කිඋwඅ බත කන්න කියල මම කල අපිට ගෙඩර යනwඅ one කිwwඅ ටාත්ත office යනwඅ කිwwඅ නන්ගි ඉස්කොලෙ යනwඅ කිwwඅ එයගෙ friend එක එනwඅ කිwwඅ අපි ඔක්කොම රේඩ්යි උන එයට පස්සෙ අපි bus එකට ගිය bus එක පෙනුන මම ටාත්ටගෙ අත අල්ලල bus එකට නග්ගින්න තම bus එක පටන් ගට්ට අපි seat wඅලට ගිය මම window එක ලන්ග හිටිය නන්ගි mage ලන්ගට අwඅ අම්ම සල්ලි ඩුන්න තාත්ත phone eke කත කල අපි Colombo අwඅ ඔක්කොම bus එකෙන් බෙහුwඅ අඩ හරිම හොඩ ඩwඅසක් උන
+✅ Failure confirmed: Long paragraph input causes system degradation with garbled characters (wඅ patterns), incomplete translations, and formatting loss.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_03 - Empty Input - No Error Handling" classname="assignment1.spec.ts" time="5.508">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_03
+Expected to FAIL: System provides no feedback for empty input. No user guidance or error message displayed.
+Input:  (S)
+Expected (correct): Error message or guidance
+Actual (problematic): 
+✅ Failure confirmed: System provides no feedback for empty input. No user guidance or error message displayed.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_04 - Heavy Punctuation - Parser Confusion" classname="assignment1.spec.ts" time="5.646">
+<failure message="assignment1.spec.ts:602:11 Neg_Fun_04 - Heavy Punctuation - Parser Confusion" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › assignment1.spec.ts:602:11 › Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_04 - Heavy Punctuation - Parser Confusion 
+
+    Error: expect(received).toBeGreaterThan(expected)
+
+    Expected: > 0
+    Received:   0
+
+      640 |         } else {
+      641 |           // Other failures: system produces output but with known issues
+    > 642 |           expect(actualOutput.length).toBeGreaterThan(0);
+          |                                       ^
+      643 |         }
+      644 |         
+      645 |         console.log(`✅ Failure confirmed: ${tc.failureReason}`);
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:642:39
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-a1fff-ctuation---Parser-Confusion-Mobile-Chrome\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-a1fff-ctuation---Parser-Confusion-Mobile-Chrome\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-a1fff-ctuation---Parser-Confusion-Mobile-Chrome\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_04
+Expected to FAIL: Excessive punctuation marks cause parser to fail completely. No translation attempted for non-Singlish content.
+Input: !! ?? "hello" ... (S)
+Expected (correct): Properly handled punctuation with translation
+Actual (problematic): 
+
+[[ATTACHMENT|assignment1-Swift-Translat-a1fff-ctuation---Parser-Confusion-Mobile-Chrome\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-a1fff-ctuation---Parser-Confusion-Mobile-Chrome\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-a1fff-ctuation---Parser-Confusion-Mobile-Chrome\error-context.md]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_05 - Currency Format - No Localization" classname="assignment1.spec.ts" time="5.697">
+<failure message="assignment1.spec.ts:602:11 Neg_Fun_05 - Currency Format - No Localization" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › assignment1.spec.ts:602:11 › Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_05 - Currency Format - No Localization 
+
+    Error: expect(received).toBeGreaterThan(expected)
+
+    Expected: > 0
+    Received:   0
+
+      640 |         } else {
+      641 |           // Other failures: system produces output but with known issues
+    > 642 |           expect(actualOutput.length).toBeGreaterThan(0);
+          |                                       ^
+      643 |         }
+      644 |         
+      645 |         console.log(`✅ Failure confirmed: ${tc.failureReason}`);
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:642:39
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-2cedb-cy-Format---No-Localization-Mobile-Chrome\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-2cedb-cy-Format---No-Localization-Mobile-Chrome\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-2cedb-cy-Format---No-Localization-Mobile-Chrome\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_05
+Expected to FAIL: Currency symbols and numeric formats are not localized to Sinhala context. Direct passthrough without conversion.
+Input: Rs. 5343 (S)
+Expected (correct): රු. 5343 or localized format
+Actual (problematic): 
+
+[[ATTACHMENT|assignment1-Swift-Translat-2cedb-cy-Format---No-Localization-Mobile-Chrome\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-2cedb-cy-Format---No-Localization-Mobile-Chrome\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-2cedb-cy-Format---No-Localization-Mobile-Chrome\error-context.md]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_06 - Slang Terms - Inappropriate Translation" classname="assignment1.spec.ts" time="5.548">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_06
+Expected to FAIL: System translates slang "bQQ" to inappropriate formal equivalent "බං", missing contextual nuance.
+Input: adoo vaedak baaragaththaanam eeka hariyata karapanko bQQ. (M)
+Expected (correct): Contextually appropriate translation
+Actual (problematic): අඩෝ වැඩක් බාරගත්තානම් ඒක හරියට කරපන්කො බං.
+✅ Failure confirmed: System translates slang "bQQ" to inappropriate formal equivalent "බං", missing contextual nuance.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_07 - English Abbreviations - Inconsistent Handling" classname="assignment1.spec.ts" time="5.624">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_07
+Expected to FAIL: Inconsistent handling of English abbreviations. Some preserved, others transliterated unpredictably.
+Input: magee NIC eka nathi unaa. (S)
+Expected (correct): මගේ NIC එක නති උනා.
+Actual (problematic): මගේ NIC එක නති උනා.
+✅ Failure confirmed: Inconsistent handling of English abbreviations. Some preserved, others transliterated unpredictably.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_08 - Line Breaks - Format Loss" classname="assignment1.spec.ts" time="5.569">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_08
+Expected to FAIL: Line break formatting inconsistently preserved across different browsers and contexts.
+Input: mama gedhara yanavaa.
+oyaa enavadha maath ekka yanna? (M)
+Expected (correct): මම ගෙදර යනවා.
+ඔයා එනවද මාත් එක්ක යන්න?
+Actual (problematic): මම ගෙදර යනවා.
+ඔයා එනවද මාත් එක්ක යන්න?
+✅ Failure confirmed: Line break formatting inconsistently preserved across different browsers and contexts.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_09 - Brand Names - Over-translation" classname="assignment1.spec.ts" time="5.426">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_09
+Expected to FAIL: Over-transliteration of English words that should remain unchanged. "msg" becomes unreadable "ම්ස්ග්".
+Input: WhatsApp msg ekak danna. (S)
+Expected (correct): WhatsApp මැසේජ් එකක් දන්න.
+Actual (problematic): WhatsApp ම්ස්ග් එකක් ඩන්න.
+✅ Failure confirmed: Over-transliteration of English words that should remain unchanged. "msg" becomes unreadable "ම්ස්ග්".
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_10 - Multiple Spaces - Formatting Issues" classname="assignment1.spec.ts" time="5.692">
+<failure message="assignment1.spec.ts:602:11 Neg_Fun_10 - Multiple Spaces - Formatting Issues" type="FAILURE">
+<![CDATA[  [Mobile Chrome] › assignment1.spec.ts:602:11 › Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_10 - Multiple Spaces - Formatting Issues 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: false
+    Received: true
+
+      637 |           // Multiple spaces: should be collapsed (formatting lost)
+      638 |           const hasMultipleSpaces = actualOutput.includes('      ');
+    > 639 |           expect(hasMultipleSpaces).toBe(false);
+          |                                     ^
+      640 |         } else {
+      641 |           // Other failures: system produces output but with known issues
+      642 |           expect(actualOutput.length).toBeGreaterThan(0);
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:639:37
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-Mobile-Chrome\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-Mobile-Chrome\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-Mobile-Chrome\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_10
+Expected to FAIL: Multiple consecutive spaces are collapsed to single spaces, losing original formatting intent.
+Input: mama      bohoma      gap      thiyena (S)
+Expected (correct): මම      බොහොම      ගැප්      තියෙන
+Actual (problematic): මම      බොහොම      gap      තියෙන
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-Mobile-Chrome\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-Mobile-Chrome\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-Mobile-Chrome\error-context.md]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="assignment1.spec.ts" timestamp="2026-01-31T18:09:59.231Z" hostname="Mobile Safari" tests="35" failures="7" skipped="0" time="267.01" errors="0">
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_01 - Simple sentence: I go home" classname="assignment1.spec.ts" time="7.584">
+<system-out>
+<![CDATA[✅ Testing: mama gedhara yanavaa. (S)
+Expected: මම ගෙදර යනවා.
+Actual: මම ගෙදර යනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_02 - Simple sentence: I want rice" classname="assignment1.spec.ts" time="7.782">
+<failure message="assignment1.spec.ts:568:11 Pos_Fun_02 - Simple sentence: I want rice" type="FAILURE">
+<![CDATA[  [Mobile Safari] › assignment1.spec.ts:568:11 › Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_02 - Simple sentence: I want rice 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      583 |         // POSITIVE TEST ASSERTIONS
+      584 |         const hasSinhala = containsSinhala(actualOutput);
+    > 585 |         expect(hasSinhala).toBe(true);
+          |                            ^
+      586 |         expect(actualOutput.length).toBeGreaterThan(0);
+      587 |         
+      588 |         // Verify reasonable translation quality
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:585:28
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-5ccd4-Simple-sentence-I-want-rice-Mobile-Safari\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-5ccd4-Simple-sentence-I-want-rice-Mobile-Safari\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-5ccd4-Simple-sentence-I-want-rice-Mobile-Safari\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[✅ Testing: mata bath oonee. (S)
+Expected: මට බත් ඕනේ.
+Actual: 
+
+[[ATTACHMENT|assignment1-Swift-Translat-5ccd4-Simple-sentence-I-want-rice-Mobile-Safari\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-5ccd4-Simple-sentence-I-want-rice-Mobile-Safari\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-5ccd4-Simple-sentence-I-want-rice-Mobile-Safari\error-context.md]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_03 - Compound sentence: Rain and home" classname="assignment1.spec.ts" time="7.619">
+<system-out>
+<![CDATA[✅ Testing: mama gedhara yanavaa, haebaeyi vahina nisaa dhaenma yannee naee. (M)
+Expected: මම ගෙදර යනවා, හැබැයි වහින නිසා දැන්ම යන්නේ නෑ.
+Actual: මම ගෙදර යනවා, හැබැයි වහින නිසා දැන්ම යන්නේ නෑ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_04 - Complex sentence: Condition" classname="assignment1.spec.ts" time="8.057">
+<failure message="assignment1.spec.ts:568:11 Pos_Fun_04 - Complex sentence: Condition" type="FAILURE">
+<![CDATA[  [Mobile Safari] › assignment1.spec.ts:568:11 › Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_04 - Complex sentence: Condition 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      583 |         // POSITIVE TEST ASSERTIONS
+      584 |         const hasSinhala = containsSinhala(actualOutput);
+    > 585 |         expect(hasSinhala).toBe(true);
+          |                            ^
+      586 |         expect(actualOutput.length).toBeGreaterThan(0);
+      587 |         
+      588 |         // Verify reasonable translation quality
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:585:28
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-c3c9f--Complex-sentence-Condition-Mobile-Safari\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-c3c9f--Complex-sentence-Condition-Mobile-Safari\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-c3c9f--Complex-sentence-Condition-Mobile-Safari\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[✅ Testing: oya enavaanam mama balan innavaa. (M)
+Expected: ඔය එනවානම් මම බලන් ඉන්නවා.
+Actual: 
+
+[[ATTACHMENT|assignment1-Swift-Translat-c3c9f--Complex-sentence-Condition-Mobile-Safari\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-c3c9f--Complex-sentence-Condition-Mobile-Safari\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-c3c9f--Complex-sentence-Condition-Mobile-Safari\error-context.md]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_05 - Question: How are you?" classname="assignment1.spec.ts" time="8.336">
+<failure message="assignment1.spec.ts:568:11 Pos_Fun_05 - Question: How are you?" type="FAILURE">
+<![CDATA[  [Mobile Safari] › assignment1.spec.ts:568:11 › Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_05 - Question: How are you? 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      583 |         // POSITIVE TEST ASSERTIONS
+      584 |         const hasSinhala = containsSinhala(actualOutput);
+    > 585 |         expect(hasSinhala).toBe(true);
+          |                            ^
+      586 |         expect(actualOutput.length).toBeGreaterThan(0);
+      587 |         
+      588 |         // Verify reasonable translation quality
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:585:28
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-fba44--05---Question-How-are-you--Mobile-Safari\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-fba44--05---Question-How-are-you--Mobile-Safari\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-fba44--05---Question-How-are-you--Mobile-Safari\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[✅ Testing: oyaata kohomadha? (S)
+Expected: ඔයාට කොහොමද?
+Actual: 
+
+[[ATTACHMENT|assignment1-Swift-Translat-fba44--05---Question-How-are-you--Mobile-Safari\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-fba44--05---Question-How-are-you--Mobile-Safari\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-fba44--05---Question-How-are-you--Mobile-Safari\error-context.md]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_06 - Command: Come immediately" classname="assignment1.spec.ts" time="7.944">
+<system-out>
+<![CDATA[✅ Testing: vahaama enna. (S)
+Expected: වහාම එන්න.
+Actual: වහාම එන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_24 - Direct Request: Give it" classname="assignment1.spec.ts" time="7.685">
+<failure message="assignment1.spec.ts:568:11 Pos_Fun_24 - Direct Request: Give it" type="FAILURE">
+<![CDATA[  [Mobile Safari] › assignment1.spec.ts:568:11 › Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_24 - Direct Request: Give it 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      583 |         // POSITIVE TEST ASSERTIONS
+      584 |         const hasSinhala = containsSinhala(actualOutput);
+    > 585 |         expect(hasSinhala).toBe(true);
+          |                            ^
+      586 |         expect(actualOutput.length).toBeGreaterThan(0);
+      587 |         
+      588 |         // Verify reasonable translation quality
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:585:28
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-46e5a-24---Direct-Request-Give-it-Mobile-Safari\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-46e5a-24---Direct-Request-Give-it-Mobile-Safari\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-46e5a-24---Direct-Request-Give-it-Mobile-Safari\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[✅ Testing: eeka dhenna. (S)
+Expected: ඒක දෙන්න.
+Actual: 
+
+[[ATTACHMENT|assignment1-Swift-Translat-46e5a-24---Direct-Request-Give-it-Mobile-Safari\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-46e5a-24---Direct-Request-Give-it-Mobile-Safari\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-46e5a-24---Direct-Request-Give-it-Mobile-Safari\error-context.md]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_07 - Positive: I do that" classname="assignment1.spec.ts" time="7.906">
+<system-out>
+<![CDATA[✅ Testing: mama ehema karanavaa. (S)
+Expected: මම එහෙම කරනවා.
+Actual: මම එහෙම කරනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_08 - Negative: I do not do that" classname="assignment1.spec.ts" time="7.99">
+<failure message="assignment1.spec.ts:568:11 Pos_Fun_08 - Negative: I do not do that" type="FAILURE">
+<![CDATA[  [Mobile Safari] › assignment1.spec.ts:568:11 › Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_08 - Negative: I do not do that 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      583 |         // POSITIVE TEST ASSERTIONS
+      584 |         const hasSinhala = containsSinhala(actualOutput);
+    > 585 |         expect(hasSinhala).toBe(true);
+          |                            ^
+      586 |         expect(actualOutput.length).toBeGreaterThan(0);
+      587 |         
+      588 |         // Verify reasonable translation quality
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:585:28
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-7377e---Negative-I-do-not-do-that-Mobile-Safari\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-7377e---Negative-I-do-not-do-that-Mobile-Safari\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-7377e---Negative-I-do-not-do-that-Mobile-Safari\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[✅ Testing: mama ehema karannee naehae. (S)
+Expected: මම එහෙම කරන්නේ නැහැ.
+Actual: 
+
+[[ATTACHMENT|assignment1-Swift-Translat-7377e---Negative-I-do-not-do-that-Mobile-Safari\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-7377e---Negative-I-do-not-do-that-Mobile-Safari\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-7377e---Negative-I-do-not-do-that-Mobile-Safari\error-context.md]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_09 - Greeting: Ayubowan" classname="assignment1.spec.ts" time="8.076">
+<system-out>
+<![CDATA[✅ Testing: aayuboovan! (S)
+Expected: ආයුබෝවන්!
+Actual: ආයුබෝවන්!
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_10 - Request: Can you help?" classname="assignment1.spec.ts" time="8.024">
+<system-out>
+<![CDATA[✅ Testing: mata udhavvak karanna puLuvandha? (M)
+Expected: මට උදව්වක් කරන්න පුළුවන්ද?
+Actual: මට උදව්වක් කරන්න පුළුවන්ද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_11 - Response: Okay I will do" classname="assignment1.spec.ts" time="7.843">
+<system-out>
+<![CDATA[✅ Testing: hari, mama karannam. (S)
+Expected: හරි, මම කරන්නම්.
+Actual: හරි, මම කරන්නම්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_14 - Expression: Sleepy" classname="assignment1.spec.ts" time="8.093">
+<failure message="assignment1.spec.ts:568:11 Pos_Fun_14 - Expression: Sleepy" type="FAILURE">
+<![CDATA[  [Mobile Safari] › assignment1.spec.ts:568:11 › Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_14 - Expression: Sleepy 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: true
+    Received: false
+
+      583 |         // POSITIVE TEST ASSERTIONS
+      584 |         const hasSinhala = containsSinhala(actualOutput);
+    > 585 |         expect(hasSinhala).toBe(true);
+          |                            ^
+      586 |         expect(actualOutput.length).toBeGreaterThan(0);
+      587 |         
+      588 |         // Verify reasonable translation quality
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:585:28
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-dd3fe--Fun-14---Expression-Sleepy-Mobile-Safari\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-dd3fe--Fun-14---Expression-Sleepy-Mobile-Safari\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-dd3fe--Fun-14---Expression-Sleepy-Mobile-Safari\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[✅ Testing: mata nidhimathayi. (S)
+Expected: මට නිදිමතයි.
+Actual: 
+
+[[ATTACHMENT|assignment1-Swift-Translat-dd3fe--Fun-14---Expression-Sleepy-Mobile-Safari\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-dd3fe--Fun-14---Expression-Sleepy-Mobile-Safari\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-dd3fe--Fun-14---Expression-Sleepy-Mobile-Safari\error-context.md]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_12 - Polite: Sorry" classname="assignment1.spec.ts" time="7.966">
+<system-out>
+<![CDATA[✅ Testing: samaavenna, eeka athvaeradhiimak. (M)
+Expected: සමාවෙන්න, ඒක අත්වැරදීමක්.
+Actual: සමාවෙන්න, ඒක අත්වැරදීමක්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_13 - Informal: Give that" classname="assignment1.spec.ts" time="7.811">
+<system-out>
+<![CDATA[✅ Testing: eeyi, ooka dhiyan. (S)
+Expected: ඒයි, ඕක දියන්.
+Actual: ඒයි, ඕක දියන්.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_15 - Phrase: Just wait" classname="assignment1.spec.ts" time="8.143">
+<system-out>
+<![CDATA[✅ Testing: poddak inna (S)
+Expected: පොඩ්ඩක් ඉන්න
+Actual: පොඩ්ඩක් ඉන්න
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_16 - Spacing: I want bread" classname="assignment1.spec.ts" time="7.77">
+<system-out>
+<![CDATA[✅ Testing: mata paan kanna oonee. (S)
+Expected: මට පාන් කන්න ඕනේ.
+Actual: මට පාන් කන්න ඕනේ.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_17 - Repeated: OK OK" classname="assignment1.spec.ts" time="7.902">
+<system-out>
+<![CDATA[✅ Testing: hari hari (S)
+Expected: හරි හරි
+Actual: හරි හරි
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_18 - Past: Went home" classname="assignment1.spec.ts" time="7.731">
+<system-out>
+<![CDATA[✅ Testing: mama iiyee gedhara giyaa. (S)
+Expected: මම ඊයේ ගෙදර ගියා.
+Actual: මම ඊයේ ගෙදර ගියා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_19 - Present: Working now" classname="assignment1.spec.ts" time="7.792">
+<system-out>
+<![CDATA[✅ Testing: mama dhaen vaeda karanavaa. (S)
+Expected: මම දැන් වැඩ කරනවා.
+Actual: මම දැන් වැඩ කරනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_20 - Future: Will come tomorrow" classname="assignment1.spec.ts" time="7.622">
+<system-out>
+<![CDATA[✅ Testing: mama heta enavaa. (S)
+Expected: මම හෙට එනවා.
+Actual: මම හෙට එනවා.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_21 - Short input: Is he/she coming?" classname="assignment1.spec.ts" time="8.078">
+<system-out>
+<![CDATA[✅ Testing: eyaa enavadha? (S)
+Expected: එයා එනවද?
+Actual: එයා එනවද?
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_22 - Medium input: Plural usage" classname="assignment1.spec.ts" time="7.898">
+<system-out>
+<![CDATA[✅ Testing: api yamu ekka gedhara. (M)
+Expected: අපි යමු එක්ක ගෙදර.
+Actual: අපි යමු එක්ක ගෙදර.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_Fun_23 - Polite Request: Can you send?" classname="assignment1.spec.ts" time="7.463">
+<system-out>
+<![CDATA[✅ Testing: puLuvannam mata eeka evanna. (S)
+Expected: පුළුවන්නම් මට ඒක එවන්න.
+Actual: පුළුවන්නම් මට ඒක එවන්න.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Positive Functional Tests (24 PASS expected) › Pos_UI_01 - Real-time update check" classname="assignment1.spec.ts" time="7.642">
+<system-out>
+<![CDATA[✅ Testing: mama ennavaa (S)
+Expected: මම එන්නවා
+Actual: මම එන්නවා
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_01 - Missing Spaces - Word Segmentation Failure" classname="assignment1.spec.ts" time="6.624">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_01
+Expected to FAIL: System fails to segment words correctly without spaces. Creates joined words instead of proper word boundaries.
+Input: mamagedharayanavaa (S)
+Expected (correct): මම ගෙදර යනවා
+Actual (problematic): මමගෙදරයනවා
+✅ Failure confirmed: System fails to segment words correctly without spaces. Creates joined words instead of proper word boundaries.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_02 - Long Input - Performance Degradation" classname="assignment1.spec.ts" time="9.444">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_02
+Expected to FAIL: Long paragraph input causes system degradation with garbled characters (wඅ patterns), incomplete translations, and formatting loss.
+Input: mama udee negi awa amma kiuwa batha kanna kiyala mama kala apita gedara yanawa one kiwwa taaththa office yanawa kiwwa nangi iskole yanawa kiwwa eyage friend eka enawa kiwwa api okkoma readyi una eyata passe api bus ekata giya bus eka penuna mama taathtage atha allala bus ekata nagginna thama bus eka patan gatta api seat walata giya mama window eka langa hitiya nangi mage langata awa amma salli dunna thaaththa phone eke katha kala api Colombo awa okkoma bus eken behuwa ada harima hoda dawasak una (L)
+Expected (correct): Clear, properly formatted Sinhala text
+Actual (problematic): මම උඩේ නෙගි අwඅ අම්ම කිඋwඅ බත කන්න කියල මම කල අපිට ගෙඩර යනwඅ one කිwwඅ ටාත්ත office යනwඅ කිwwඅ නන්ගි ඉස්කොලෙ යනwඅ කිwwඅ එයගෙ friend එක එනwඅ කිwwඅ අපි ඔක්කොම රේඩ්යි උන එයට පස්සෙ අපි bus එකට ගිය bus එක පෙනුන මම ටාත්ටගෙ අත අල්ලල bus එකට නග්ගින්න තම bus එක පටන් ගට්ට අපි seat wඅලට ගිය මම window එක ලන්ග හිටිය නන්ගි mage ලන්ගට අwඅ අම්ම සල්ලි ඩුන්න තාත්ත phone eke කත කල අපි Colombo අwඅ ඔක්කොම bus එකෙන් බෙහුwඅ අඩ හරිම හොඩ ඩwඅසක් උන
+✅ Failure confirmed: Long paragraph input causes system degradation with garbled characters (wඅ patterns), incomplete translations, and formatting loss.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_03 - Empty Input - No Error Handling" classname="assignment1.spec.ts" time="6.652">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_03
+Expected to FAIL: System provides no feedback for empty input. No user guidance or error message displayed.
+Input:  (S)
+Expected (correct): Error message or guidance
+Actual (problematic): 
+✅ Failure confirmed: System provides no feedback for empty input. No user guidance or error message displayed.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_04 - Heavy Punctuation - Parser Confusion" classname="assignment1.spec.ts" time="7.165">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_04
+Expected to FAIL: Excessive punctuation marks cause parser to fail completely. No translation attempted for non-Singlish content.
+Input: !! ?? "hello" ... (S)
+Expected (correct): Properly handled punctuation with translation
+Actual (problematic): !! ?? "hello" ...
+✅ Failure confirmed: Excessive punctuation marks cause parser to fail completely. No translation attempted for non-Singlish content.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_05 - Currency Format - No Localization" classname="assignment1.spec.ts" time="6.776">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_05
+Expected to FAIL: Currency symbols and numeric formats are not localized to Sinhala context. Direct passthrough without conversion.
+Input: Rs. 5343 (S)
+Expected (correct): රු. 5343 or localized format
+Actual (problematic): Rs. 5343
+✅ Failure confirmed: Currency symbols and numeric formats are not localized to Sinhala context. Direct passthrough without conversion.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_06 - Slang Terms - Inappropriate Translation" classname="assignment1.spec.ts" time="6.746">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_06
+Expected to FAIL: System translates slang "bQQ" to inappropriate formal equivalent "බං", missing contextual nuance.
+Input: adoo vaedak baaragaththaanam eeka hariyata karapanko bQQ. (M)
+Expected (correct): Contextually appropriate translation
+Actual (problematic): අඩෝ වැඩක් බාරගත්තානම් ඒක හරියට කරපන්කො බං.
+✅ Failure confirmed: System translates slang "bQQ" to inappropriate formal equivalent "බං", missing contextual nuance.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_07 - English Abbreviations - Inconsistent Handling" classname="assignment1.spec.ts" time="6.753">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_07
+Expected to FAIL: Inconsistent handling of English abbreviations. Some preserved, others transliterated unpredictably.
+Input: magee NIC eka nathi unaa. (S)
+Expected (correct): මගේ NIC එක නති උනා.
+Actual (problematic): මගේ NIC එක නති උනා.
+✅ Failure confirmed: Inconsistent handling of English abbreviations. Some preserved, others transliterated unpredictably.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_08 - Line Breaks - Format Loss" classname="assignment1.spec.ts" time="6.809">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_08
+Expected to FAIL: Line break formatting inconsistently preserved across different browsers and contexts.
+Input: mama gedhara yanavaa.
+oyaa enavadha maath ekka yanna? (M)
+Expected (correct): මම ගෙදර යනවා.
+ඔයා එනවද මාත් එක්ක යන්න?
+Actual (problematic): මම ගෙදර යනවා.
+ඔයා එනවද මාත් එක්ක යන්න?
+✅ Failure confirmed: Line break formatting inconsistently preserved across different browsers and contexts.
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_09 - Brand Names - Over-translation" classname="assignment1.spec.ts" time="6.732">
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_09
+Expected to FAIL: Over-transliteration of English words that should remain unchanged. "msg" becomes unreadable "ම්ස්ග්".
+Input: WhatsApp msg ekak danna. (S)
+Expected (correct): WhatsApp මැසේජ් එකක් දන්න.
+Actual (problematic): WhatsApp ම්ස්ග් එකක් ඩන්න.
+✅ Failure confirmed: Over-transliteration of English words that should remain unchanged. "msg" becomes unreadable "ම්ස්ග්".
+]]>
+</system-out>
+</testcase>
+<testcase name="Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_10 - Multiple Spaces - Formatting Issues" classname="assignment1.spec.ts" time="6.552">
+<failure message="assignment1.spec.ts:602:11 Neg_Fun_10 - Multiple Spaces - Formatting Issues" type="FAILURE">
+<![CDATA[  [Mobile Safari] › assignment1.spec.ts:602:11 › Swift Translator - IT3040 Assignment 1 › Negative Functional Tests (10 FAIL expected) › Neg_Fun_10 - Multiple Spaces - Formatting Issues 
+
+    Error: expect(received).toBe(expected) // Object.is equality
+
+    Expected: false
+    Received: true
+
+      637 |           // Multiple spaces: should be collapsed (formatting lost)
+      638 |           const hasMultipleSpaces = actualOutput.includes('      ');
+    > 639 |           expect(hasMultipleSpaces).toBe(false);
+          |                                     ^
+      640 |         } else {
+      641 |           // Other failures: system produces output but with known issues
+      642 |           expect(actualOutput.length).toBeGreaterThan(0);
+        at D:\GIT HUB\ITPM_Assignment\swift-translator-playwright-tests\tests\assignment1.spec.ts:639:37
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-Mobile-Safari\test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    attachment #2: video (video/webm) ──────────────────────────────────────────────────────────────
+    ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-Mobile-Safari\video.webm
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+    Error Context: ..\test-results\assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-Mobile-Safari\error-context.md
+]]>
+</failure>
+<system-out>
+<![CDATA[
+❌ NEGATIVE TEST: Neg_Fun_10
+Expected to FAIL: Multiple consecutive spaces are collapsed to single spaces, losing original formatting intent.
+Input: mama      bohoma      gap      thiyena (S)
+Expected (correct): මම      බොහොම      ගැප්      තියෙන
+Actual (problematic): මම      බොහොම      gap      තියෙන
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-Mobile-Safari\test-failed-1.png]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-Mobile-Safari\video.webm]]
+
+[[ATTACHMENT|assignment1-Swift-Translat-58ab1--Spaces---Formatting-Issues-Mobile-Safari\error-context.md]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
