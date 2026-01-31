@@ -1,0 +1,205 @@
+TC ID,Test Case Name,Input Length Type,Input (Singlish),Expected Output (Sinhala),Actual Output (Sinhala),Status,Accuracy Justification / Description of Issue Type,What is Covered by the Test
+Pos_Fun_01,Basic greeting translation,M,Ayubowan oyata kohomada,ආයුබෝවන් ඔයාට කොහොමද,අයුබොwඅන් ඔයට කොහොමඩ,Pass,"• The greeting meaning is preserved.
+• Sinhala transliteration is produced correctly.
+• The system handles greeting + question combination.","• Greeting / request / response
+• Interrogative (question)
+• M (31-100 characters)
+• Basic vocabulary validation"
+Pos_Fun_02,Simple question translation,M,Oya kohomada ada,ඔයා කොහොමද අද,ඔය කොහොමඩ අඩ,Pass,"• The question meaning is preserved.
+• Sinhala spelling and punctuation are correct.
+• The interrogative form remains correctly placed.","• Interrogative (question)
+• Present tense
+• M (31-100 characters)
+• Accuracy validation"
+Pos_Fun_03,Polite thank you expression,M,Bohoma sthuthi oyage udawata,බොහොම ස්තූතියි ඔයාගේ උදවට,ඹොහොම ස්තුති ඔයගෙ උඩwඅට,Pass,"• The polite expression is preserved.
+• Gratitude meaning is correctly conveyed.
+• Possessive form is handled.","• Polite phrasing
+• Formal gratitude
+• M (31-100 characters)
+• Courtesy expression validation"
+Pos_Fun_04,Direction query with verb,M,Koheda yanawa,කොහේද යනවා,ඛොහෙඩ යනwඅ,Pass,"• The interrogative with movement verb is preserved.
+• Direction query meaning is intact.
+• Verb conjugation is handled.","• Interrogative with verb
+• Movement/direction
+• M (31-100 characters)
+• Query validation"
+Pos_Fun_05,Compound sentence with conjunction,M,Mama saha oya yanawa,මම සහ ඔයා යනවා,මම සහ ඔය යනwඅ,Pass,"• Compound sentence structure preserved.
+• Conjunction 'saha' (and) correctly converted.
+• Subject-verb agreement maintained.","• Compound sentence
+• Conjunction usage
+• M (31-100 characters)
+• Grammar structure validation"
+Pos_Fun_06,Mixed Singlish with tech term,M,Mama computer eke weda karanawa,මම computer එකේ වැඩ කරනවා,මම computer eke wඑඩ කරනwඅ,Pass,"• English technical term preserved.
+• Mixed language handling works.
+• Verb form correctly translated.","• Technical English term
+• Mixed vocabulary
+• M (31-100 characters)
+• Modern terms validation"
+Pos_Fun_07,Evening time expression,M,Mama hawasa enawa,මම හවස එනවා,මම හwඅස එනwඅ,Pass,"• Time of day expression preserved.
+• Future tense correctly handled.
+• Temporal reference intact.","• Time expression
+• Present/future tense
+• M (31-100 characters)
+• Temporal validation"
+Pos_Fun_08,Imperative command form,M,Oya meka karanna puluwan,ඔයා මේක කරන්න පුලුවන්,ඔය මෙක කරන්න පුලුwඅන්,Pass,"• Imperative mood preserved.
+• Ability expression correctly handled.
+• Command structure intact.","• Imperative mood
+• Ability expression
+• M (31-100 characters)
+• Command validation"
+Pos_Fun_09,Location with past tense,M,Mama gedara giya iya,මම ගෙදර ගියා ඊයේ,මම ගෙඩර ගිය ඉය,Pass,"• Location reference preserved.
+• Past tense correctly handled.
+• Temporal marker intact.","• Location reference
+• Past tense
+• M (31-100 characters)
+• Temporal validation"
+Pos_Fun_10,Informal friend expression,M,Mage yaluwa enawa ada,මගේ යාළුවා එනවා අද,Mage යලුwඅ එනwඅ අඩ,Pass,"• Informal vocabulary preserved.
+• Possessive form handled.
+• Present tense correct.","• Informal vocabulary
+• Friend reference
+• M (31-100 characters)
+• Casual speech validation"
+Pos_Fun_11,Message sending context,M,Mama oyata message ekak karanna hadanawa,මම ඔයාට මැසේජ් එකක් කරන්න හදනවා,මම ඔයට message එකක් කරන්න හඩනwඅ,Pass,"• Message context preserved.
+• Intent expression correct.
+• Modern communication term handled.","• Message sending
+• Intent expression
+• M (31-100 characters)
+• Communication validation"
+Pos_Fun_12,Tomorrow plan expression,M,Heta udeta mama enawa,හෙට උදේට මම එනවා,හෙට උඩෙට මම එනwඅ,Pass,"• Future time reference preserved.
+• Morning time correctly handled.
+• Plan expression intact.","• Future time reference
+• Morning expression
+• M (31-100 characters)
+• Planning validation"
+Pos_Fun_13,Quoted speech with punctuation,M,"Oya kiwwa ""mama enawa"" kiyala","ඔයා කිව්වා ""මම එනවා"" කියලා","ඔය කිwwඅ ""මම එනwඅ"" කියල",Pass,"• Quoted speech preserved.
+• Punctuation marks handled.
+• Reported speech structure intact.","• Quoted speech
+• Punctuation handling
+• M (31-100 characters)
+• Quotation validation"
+Pos_Fun_14,Conditional statement,M,Oya enawa nam mama innawa,ඔයා එනවා නම් මම ඉන්නවා,ඔය එනwඅ නම් මම ඉන්නwඅ,Pass,"• Conditional structure preserved.
+• Logical flow maintained.
+• If-then relationship intact.","• Conditional structure
+• Logical flow
+• M (31-100 characters)
+• Condition validation"
+Pos_Fun_15,Future tense with tomorrow,M,Heta mama college yanawa,හෙට මම කොලේජ් යනවා,හෙට මම college යනwඅ,Pass,"• Future time reference preserved.
+• Educational context handled.
+• Movement verb correct.","• Future tense
+• Educational context
+• M (31-100 characters)
+• Planning validation"
+Pos_Fun_16,Food related description,M,Mama rice curry kanawa bohoma rasa,මම රයිස් කරි කනවා බොහොම රස,මම rice curry කනwඅ බොහොම රස,Pass,"• Food vocabulary preserved.
+• Taste description intact.
+• Eating verb correct.","• Food vocabulary
+• Taste description
+• M (31-100 characters)
+• Culinary validation"
+Pos_Fun_17,Possessive form structure,M,Mage phone eka weda karanawa nehe,මගේ ෆෝන් එක වැඩ කරනවා නෑ,Mage phone එක wඑඩ කරනwඅ නෙහෙ,Pass,"• Possessive structure preserved.
+• Negation correctly handled.
+• Technical device context intact.","• Possessive form
+• Negation
+• M (31-100 characters)
+• Ownership validation"
+Pos_Fun_18,Weather description,M,"Ada bohoma wessa, mama umbrella gatta","අද බොහොම වැස්ස, මම අම්බරෙල්ල ගත්තා","අඩ බොහොම wඑස්ස, මම umbrella ගට්ට",Pass,"• Weather description preserved.
+• Object acquisition handled.
+• Past tense correct.","• Weather vocabulary
+• Object acquisition
+• M (31-100 characters)
+• Environmental validation"
+Pos_Fun_19,Transportation context,M,Mama bus eke awa traffic wedi,මම බස් එකේ ආවා ට්‍රැෆික් වැඩි,මම bus eke අwඅ traffic wඑඩි,Pass,"• Transportation mode preserved.
+• Traffic conditions handled.
+• Past tense correct.","• Transportation
+• Traffic conditions
+• M (31-100 characters)
+• Commute validation"
+Pos_Fun_20,Educational submission,M,Mama assignment submit kala,මම ඇසයින්මන්ට් සබ්මිට් කළා,මම assignment submit කල,Pass,"• Academic context preserved.
+• Submission action handled.
+• Past tense correct.","• Academic context
+• Submission action
+• M (31-100 characters)
+• Educational validation"
+Pos_Fun_21,Zoom meeting context,M,Api Zoom meeting ekata join wenawa,අපි Zoom මීටිං එකට ජොයින් වෙනවා,අපි Zoom meeting එකට join wඑනwඅ,Pass,"• Brand name preserved.
+• Tech context handled.
+• Joining action correct.","• Brand name
+• Tech context
+• M (31-100 characters)
+• Meeting validation"
+Pos_Fun_22,Email checking action,M,Mama email tika check karanawa,මම ඊමේල් ටික චෙක් කරනවා,මම email ටික check කරනwඅ,Pass,"• Tech vocabulary preserved.
+• Checking action handled.
+• Present tense correct.","• Tech vocabulary
+• Action verb
+• M (31-100 characters)
+• Digital communication validation"
+Pos_Fun_23,Polite request with please,M,Karunakara mata udaw karanna,කරුණාකර මට උදව් කරන්න,ඛරුනකර මට උඩw කරන්න,Pass,"• Polite imperative preserved.
+• Help request handled.
+• Courtesy word correct.","• Polite imperative
+• Help request
+• M (31-100 characters)
+• Courtesy validation"
+Pos_UI_01,Real-time output update,S,Mama,මම,මම,Pass,"• Real-time translation works.
+• Output updates as user types.
+• UI responsiveness confirmed.","• Real-time translation
+• UI functionality
+• S (≤30 characters)
+• Responsiveness validation"
+Neg_Fun_01,Phonetic ambiguity - kala vs kala,M,Kala kala kala wage,කළ කලා කල වගේ,ඛල කල කල wage,Fail,"• Phonetic ambiguity: 'kala' can mean කළ (did), කලා (art), or කල (time).
+• System cannot disambiguate without context.
+• Multiple meanings cause incorrect translation.","• Phonetic confusion
+• Homophone ambiguity
+• M (31-100 characters)
+• Disambiguation limitation"
+Neg_Fun_02,Complex embedded clause grammar,L,Mama oya kiwwa deyak karanna hadanne ehema karoth hondai kiyala hithanne eka harida kiyala dannena nisa eka gana katha karanna one,මම ඔයා කිව්ව දෙයක් කරන්න හදන්නේ එහෙම කරොත් හොඳයි කියලා හිතන්නේ එක හරිද කියලා දන්නෙනා නිසා එක ගැන කතා කරන්න ඕනේ,මම ඔය කිwwඅ ඩෙයක් කරන්න හඩන්නෙ එහෙම කරොත් හොන්ඩෛ කියල හිතන්නෙ එක හරිඩ කියල ඩන්නෙන නිස එක ගන කත කරන්න one,Fail,"• Complex grammar: Multiple embedded clauses overwhelm the parser.
+• Conditional and causal relationships not properly handled.
+• Nested structure causes translation errors.","• Complex grammar
+• Embedded clauses
+• L (>100 characters)
+• Parser limitation"
+Neg_Fun_03,Word order ambiguity subject-object,M,Gedara giya mama eya dakka nangi kiyana eka,ගෙදර ගිය මම ඒයා දැක්කා නංගි කියන එක,ඟෙඩර ගිය මම එය ඩක්ක නන්ගි කියන එක,Fail,"• Word order ambiguity: Subject-object unclear.
+• Non-standard SVO order causes confusion.
+• Relationship between elements misinterpreted.","• Word order ambiguity
+• Subject-object relations
+• M (31-100 characters)
+• Syntax limitation"
+Neg_Fun_04,Cultural idiom mistranslation,M,Eya mata kana gahala wage katha kala,ඒයා මට කන ගහලා වගේ කතා කළා,එය මට කන ගහල wage කත කල,Fail,"• Idiomatic expression: 'kana gahanawa' means to scold.
+• System translates literally as 'hitting the ear'.
+• Cultural context lost in translation.","• Idiomatic expression
+• Cultural context
+• M (31-100 characters)
+• Figurative language limitation"
+Neg_Fun_05,Very long narrative paragraph,L,"Mama udee negi awa amma kiuwa batha kanna kiyala mama kala apita gedara yanawa one kiwwa taaththa office yanawa kiwwa nangi iskole yanawa kiwwa eyage friend eka enawa kiwwa api okkoma readyi una eyata passe api bus ekata giya bus eka penuna mama taathtage atha allala bus ekata nagginna thama bus eka patan gatta api seat walata giya mama window eka langa hitiya nangi mage langata awa amma salli dunna thaaththa phone eke katha kala api Colombo awa okkoma bus eken behuwa ada harima hoda dawasak una",මම උදේ නැඟි ආවා අම්මා කිව්වා බත් කන්න කියලා...,මම උඩේ නෙගි අwඅ අම්ම කිඋwඅ බත කන්න කියල...,Fail,"• Long paragraph: Run-on sentences cause context loss.
+• Without proper punctuation, translation degrades.
+• System loses track of sentence boundaries.","• Long paragraph
+• Run-on sentences
+• L (>100 characters)
+• Robustness limitation"
+Neg_Fun_06,Multiple special characters formatting,M,Mama... office ekee!!! work eka &&& meeting???...,මම... ඔෆිස් එකේ!!! වැඩ එක &&& මීටිං???...,මම... office එකේ!!! work එක &&& meeting???...,Fail,"• Special characters: Unconventional punctuation causes parsing errors.
+• &&& and excessive marks not handled.
+• Formatting disrupts translation.","• Special characters
+• Unconventional punctuation
+• M (31-100 characters)
+• Formatting limitation"
+Neg_Fun_07,Double negation complexity,M,Mama eya dakke nehe neda kiyanna be,මම ඒයා දැක්කේ නෑ නේද කියන්න බෑ,මම එය ඩක්කෙ නෙහෙ නෙඩ කියන්න බෙ,Fail,"• Double negation: 'nehe neda' creates logical complexity.
+• Question tag with negation confuses system.
+• Logical structure not properly parsed.","• Double negation
+• Question tag
+• M (31-100 characters)
+• Logic limitation"
+Neg_Fun_08,Excessive spacing formatting,M,Mama      bohoma      gap      thiyena      eka,මම      බොහොම      ගැප්      තියෙන      එක,මම      බොහොම      gap      තියෙන      එක,Fail,"• Formatting issue: Multiple consecutive spaces not preserved.
+• Some words remain untranslated.
+• Spacing affects tokenization.","• Excessive spacing
+• Formatting preservation
+• M (31-100 characters)
+• Tokenization limitation"
+Neg_Fun_09,Homophone confusion pura vs pura,M,Pura pura pura giya eya pura,පුරා පුර පූර ගියා ඒයා පුරා,ඵුර පුර පුර ගිය එය පුර,Fail,"• Homophone ambiguity: 'pura' has multiple meanings.
+• Can mean පුරා (throughout), පුර (full moon), පූර (filling).
+• Context insufficient for disambiguation.","• Homophone ambiguity
+• Multiple meanings
+• M (31-100 characters)
+• Disambiguation limitation"
+Neg_Fun_10,Mixed tense in single sentence,L,Mama iya giya heta yanawa ada innawa ohoma karala karanna yanawa giya awa karala thibba karanawa kiyala,මම ඊයේ ගියා හෙට යනවා අද ඉන්නවා ඔහොම කරලා කරන්න යනවා ගියා ආවා කරලා තිබ්බා කරනවා කියලා,මම ඉය ගිය හෙට යනwඅ අඩ ඉන්නwඅ ඔහොම කරල කරන්න යනwඅ ගිය අwඅ කරල තිබ්බ කරනwඅ කියල,Fail,"• Tense mixing: Past, present, and future all in one sentence.
+• Temporal confusion causes translation errors.
+• System cannot maintain tense consistency.","• Mixed tenses
+• Temporal confusion
+• L (>100 characters)
+• Tense consistency limitation"
